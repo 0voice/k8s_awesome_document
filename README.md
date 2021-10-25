@@ -70,6 +70,7 @@
 
 ## 📂文档库
 - [白皮书:Kubernetes如何拯救OpenStack](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E6%A1%A3/%E7%99%BD%E7%9A%AE%E4%B9%A6%EF%BC%9AKubernetes%E5%A6%82%E4%BD%95%E6%8B%AF%E6%95%91OpenStack.pdf)
+- [2021年云原生行业研究报告](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E6%A1%A3/2021%E5%B9%B4%E4%BA%91%E5%8E%9F%E7%94%9F%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)
 
 
 
