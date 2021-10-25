@@ -22,10 +22,34 @@
 ## 🏗相关开源项目
 
 - [istio/istio](https://github.com/istio/istio)---Istio是一个开放平台，提供统一的方式来集成微服务、管理微服务之间的流量、执行策略和聚合遥测数据。Istio的控制平面在底层集群管理平台(如Kubernetes)上提供了一个抽象层。
+
 - [knative/docs](https://github.com/knative/docs)---基于kubernetes的平台来部署和管理现代的无服务器工作负载。
+
 - [Helm](https://helm.sh/zh/)---Helm 帮助您管理 Kubernetes 应用——Helm 图表，即使是最复杂的 Kubernetes 应用程序，都可以帮助您定义，安装和升级。
+
 - [prometheus/prometheus](https://github.com/prometheus/prometheus)---prometheus是云本地计算基金会的一个项目，是一个系统和服务监控系统。它以给定的时间间隔从配置的目标收集指标，计算规则表达式，显示结果，并在观察到指定的条件时触发警报。
+
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2)---Linkerd是Kubernetes的一款超轻、安全优先的服务网。Linkerd为您的Kubernetes堆栈添加了关键的安全性、可观察性和可靠性特性，而不需要更改代码。
+
+#### Oracle
+- [fn](https://github.com/fnproject/fn)---Fn是一个事件驱动的、开源的、功能即服务(FaaS)计算平台，可以在任何地方运行。
+- [weblogic-kubernetes-operator](https://github.com/oracle/weblogic-kubernetes-operator)---支持在Kubernetes上运行WebLogic服务器和融合中间件基础架构域，Kubernetes是一个行业标准、云中立部署平台。它允许您将整个WebLogic Server安装和分层应用程序封装到一组可移植的云中立图像和简单的资源描述文件中。您可以在部署操作员的任何支持Kubernetes的本地云或公共云上运行它们。
+- [mysql-operator](https://github.com/mysql/mysql-operator)---MYSQL Operator for Kubernetes是Kubernetes在Kubernetes集群中管理MYSQL InnoDB集群设置的操作符。
+- [coherence-operator](https://github.com/oracle/coherence-operator)---通过支持Docker和Kubernetes等行业标准，Oracle允许使用Coherence的组织将其集群移动到云中，并促进在云中立的基础设施上运行Coherence。
+- [verrazzano](https://github.com/verrazzano/verrazzano)---Verrazzano是一个端到端企业容器平台，用于在多云和混合环境中部署云本地和传统应用程序。它由一组精心设计的开源组件组成——许多您可能已经在使用和信任，还有一些是专门编写的，将所有组件组合在一起，使其成为一个内聚的、易于使用的平台。
+- [oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager)---OCI - Cloud - Controller - Manager是Kubernetes云控制器管理器实现(或out- tree云提供商)，用于Oracle云基础设施(OCI)。
+- [terraform-oci-oke](https://github.com/oracle-terraform-modules/terraform-oci-oke)---Oracle Container Engine (OKE)是Oracle在Oracle Cloud Infrastructure (OCI)上管理的Kubernetes服务。
+- [fn-helm](https://github.com/fnproject/fn-helm)---这个图表使用Helm包管理器在Kubernetes集群上部署了Fn平台的一个功能完整的实例。
+- [weblogic-image-tool](https://github.com/oracle/weblogic-image-tool)---Oracle WebLogic镜像工具
+- [oci-service-broker](https://github.com/oracle/oci-service-broker)---Oracle Cloud Infrastructure Service Broker是面向OCI服务的开放服务代理API规范的开源实现。客户可以使用此实现在Kubernetes或其他Kubernetes集群的Oracle容器引擎中安装Open Service Broker。
+- [fmw-kubernetes](https://github.com/oracle/fmw-kubernetes)---Kubernetes用于Oracle Fusion Middleware产品的部署脚本
+- [oci-manager](https://github.com/oracle/oci-manager)---Kubernetes控制器集合，用于对Oracle云基础设施资源进行自治管理
+- [oci-service-operator](https://github.com/oracle/oci-service-operator)---Kubernetes的OCI Service Operator (OSOK)可以方便地从Kubernetes环境中运行的云本地应用程序连接和管理OCI服务。
+- [terraform-oci-olcne](https://github.com/oracle-terraform-modules/terraform-oci-olcne)---一个可重用和可扩展的Terraform模块，在Oracle云基础设施上提供Oracle Linux云本地环境。
+- [mysql-ndb-operator](https://github.com/mysql/mysql-ndb-operator)---MySQL NDB Operator 是一个 Kubernetes 运算符，用于管理 Kubernetes 集群内的 MySQL NDB 集群设置。
+- [weblogic-azure](https://github.com/oracle/weblogic-azure)---该项目支持在Azure Virtual Machines和Azure Kubernetes Service (AKS)中运行Oracle WebLogic Server。
+- [zfssa-csi-driver](https://github.com/oracle/zfssa-csi-driver)---Kubernetes容器存储接口(CSI)插件用于Oracle ZFS存储设备。
+- [weblogic-toolkit-ui](https://github.com/oracle/weblogic-toolkit-ui)---WebLogic Kubernetes Toolkit (WKT) 是一组开源工具，可帮助您配置基于 WebLogic 的应用程序以在 Kubernetes 集群上的 Linux 容器中运行。
 
 ## 📀学习视频
 
