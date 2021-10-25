@@ -18,6 +18,7 @@
 - [Kubernetes是什么?---红帽redhat](https://github.com/0voice/k8s_awesome_document/blob/main/%E8%B7%9F%E5%A4%A7%E5%8E%82%E8%AE%A4%E8%AF%86K8s/Kubernetes%E6%98%AF%E4%BB%80%E4%B9%88%3F.md)
 - [Kubernetes是什么?---mirantis](https://github.com/0voice/k8s_awesome_document/blob/main/%E8%B7%9F%E5%A4%A7%E5%8E%82%E8%AE%A4%E8%AF%86K8s/%E4%BB%80%E4%B9%88%E6%98%AF%20Kubernetes%EF%BC%9F---mirantis.md)
 - [深入研究 Kubernetes 核心概念---阿里巴巴](https://github.com/0voice/k8s_awesome_document/blob/main/%E8%B7%9F%E5%A4%A7%E5%8E%82%E8%AE%A4%E8%AF%86K8s/%E6%B7%B1%E5%85%A5%E7%A0%94%E7%A9%B6%20Kubernetes%20%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5---%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4.md)
+- [Kubernetes 开源知识---华为](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E6%A1%A3/Kubernetes%20%E5%BC%80%E6%BA%90%E7%9F%A5%E8%AF%86.pdf)
 
 ## 🚩核心组件
 - [etcd cluster](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/) –存储Kubernetes集群数据的分布式密钥值存储
