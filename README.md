@@ -9,5 +9,12 @@
 ## ————【Docker容器化技术优秀“管家”】
   
 <br>  
+  
+</div>
 
+##  🤝跟大厂一起认识K8s
+
+#### 红帽redhat
+
+- [Kubernetes是什么?](https://github.com/0voice/k8s_awesome_document/blob/main/%E8%B7%9F%E5%A4%A7%E5%8E%82%E8%AE%A4%E8%AF%86K8s/Kubernetes%E6%98%AF%E4%BB%80%E4%B9%88%3F.md)
 
