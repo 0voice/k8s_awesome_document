@@ -14,5 +14,6 @@
 
 ##  🤝跟大厂一起认识K8s
 
+- [Kubernetes 的概述---官方](https://github.com/0voice/k8s_awesome_document/blob/main/%E8%B7%9F%E5%A4%A7%E5%8E%82%E8%AE%A4%E8%AF%86K8s/Kubernetes%20%E7%9A%84%E6%A6%82%E8%BF%B0.md)
 - [Kubernetes是什么?---红帽redhat](https://github.com/0voice/k8s_awesome_document/blob/main/%E8%B7%9F%E5%A4%A7%E5%8E%82%E8%AE%A4%E8%AF%86K8s/Kubernetes%E6%98%AF%E4%BB%80%E4%B9%88%3F.md)
 
