@@ -21,6 +21,8 @@
 
 ## 🏗相关开源项目
 
+- [etcd-io/etcd](https://github.com/etcd-io/etcd)---Etcd是分布式系统中最关键的数据的分布式可靠的键值存储
+
 - [istio/istio](https://github.com/istio/istio)---Istio是一个开放平台，提供统一的方式来集成微服务、管理微服务之间的流量、执行策略和聚合遥测数据。Istio的控制平面在底层集群管理平台(如Kubernetes)上提供了一个抽象层。
 
 - [knative/docs](https://github.com/knative/docs)---基于kubernetes的平台来部署和管理现代的无服务器工作负载。
@@ -31,7 +33,7 @@
 
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2)---Linkerd是Kubernetes的一款超轻、安全优先的服务网。Linkerd为您的Kubernetes堆栈添加了关键的安全性、可观察性和可靠性特性，而不需要更改代码。
 
-#### Oracle
+### Oracle
 - [fn](https://github.com/fnproject/fn)---Fn是一个事件驱动的、开源的、功能即服务(FaaS)计算平台，可以在任何地方运行。
 - [weblogic-kubernetes-operator](https://github.com/oracle/weblogic-kubernetes-operator)---支持在Kubernetes上运行WebLogic服务器和融合中间件基础架构域，Kubernetes是一个行业标准、云中立部署平台。它允许您将整个WebLogic Server安装和分层应用程序封装到一组可移植的云中立图像和简单的资源描述文件中。您可以在部署操作员的任何支持Kubernetes的本地云或公共云上运行它们。
 - [mysql-operator](https://github.com/mysql/mysql-operator)---MYSQL Operator for Kubernetes是Kubernetes在Kubernetes集群中管理MYSQL InnoDB集群设置的操作符。
