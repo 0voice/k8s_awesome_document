@@ -18,3 +18,8 @@
 - [Kubernetes是什么?---红帽redhat](https://github.com/0voice/k8s_awesome_document/blob/main/%E8%B7%9F%E5%A4%A7%E5%8E%82%E8%AE%A4%E8%AF%86K8s/Kubernetes%E6%98%AF%E4%BB%80%E4%B9%88%3F.md)
 - [Kubernetes是什么?---mirantis](https://github.com/0voice/k8s_awesome_document/blob/main/%E8%B7%9F%E5%A4%A7%E5%8E%82%E8%AE%A4%E8%AF%86K8s/%E4%BB%80%E4%B9%88%E6%98%AF%20Kubernetes%EF%BC%9F---mirantis.md)
 
+## 相关开源项目
+
+- [istio/istio](https://github.com/istio/istio)---Istio是一个开放平台，提供统一的方式来集成微服务、管理微服务之间的流量、执行策略和聚合遥测数据。Istio的控制平面在底层集群管理平台(如Kubernetes)上提供了一个抽象层。
+- [knative/docs](https://github.com/knative/docs)---基于kubernetes的平台来部署和管理现代的无服务器工作负载。
+
