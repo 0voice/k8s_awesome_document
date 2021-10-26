@@ -217,9 +217,11 @@
 ## 🧾学术论文
 
 
-## 📂文档库
+## 📂文档库(提取码：1024)
 - [白皮书:Kubernetes如何拯救OpenStack](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E6%A1%A3/%E7%99%BD%E7%9A%AE%E4%B9%A6%EF%BC%9AKubernetes%E5%A6%82%E4%BD%95%E6%8B%AF%E6%95%91OpenStack.pdf)
 - [2021年云原生行业研究报告](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E6%A1%A3/2021%E5%B9%B4%E4%BA%91%E5%8E%9F%E7%94%9F%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)
-
-
-
+- [石墨文档Go在K8S上微服务的实践-彭友顺](https://pan.baidu.com/s/1uRCajVK2qPqvtLlBwPnKYw)
+- [K8s 为 AI 应用提供大规模 GPU 算力之实践-李程](https://pan.baidu.com/s/1VqdLvfdm0YJz7wvLSKoTOg)
+- [kubernetes在深度学习场景下的优化以及使用-薛磊](https://pan.baidu.com/s/1UQbaOwMcGBcHTytbaEL10g)
+- [K8S在华为云的实践与发展-王泽锋](https://pan.baidu.com/s/1ErXlkSIB-bZhV9ce1MM14g)
+- [基于Istio+on+Kubernetes云原生应用的最佳实践-王夕宁](https://pan.baidu.com/s/1_FHirCEUWfCo42z5jTQCUQ)
