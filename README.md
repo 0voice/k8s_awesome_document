@@ -127,9 +127,9 @@
 
 - [基于 Kubernetes 的跨云 AI 训练平台构建与展望 - ArchSummit](https://pan.baidu.com/s/1cdBBRMwfQNhcYLrPV4uDDA)
 
-### 阿里开发者课程
+  ### 阿里开发者课程
 
-####     第1 章 ： 第一堂“云原生”课
+  ####第1 章 ： 第一堂“云原生”课
 
 - [课时1：第1讲：第一堂“云原生”课](https://edu.aliyun.com/lesson_1651_13076)
 
@@ -400,7 +400,7 @@
 - [knative/docs](https://github.com/knative/docs)---基于kubernetes的平台来部署和管理现代的无服务器工作负载。
 
 
-### K8s集群部署工具
+  ### K8s集群部署工具
 
 - [Kubespray](https://github.com/kubernetes-incubator/kubespray)---Kubespray为Kubernetes的部署和配置提供了一组Ansible角色。Kubespray可以使用AWS、GCE、Azure、OpenStack或裸金属基础设施即服务(IaaS)平台。Kubespray是一个开放开发模型的开源项目。对于已经了解Ansible的人来说，这个工具是一个很好的选择，因为不需要使用其他工具来进行配置和编排。Kubespray在引擎盖下使用了kubeadm。
 
@@ -417,7 +417,7 @@
 
 - [Amazon EKS]( https://aws.amazon.com/eks/)---Amazon Elastic Container Service for Kubernetes (Amazon EKS)是一种托管服务，可以使用Kubernetes简单地部署、管理和扩展容器化应用。Amazon EKS跨多个AWS可用区管理您的Kubernetes基础设施，同时自动检测和替换不健康的控制平面节点，并提供按需升级和补丁。您只需提供工作节点并将它们连接到所提供的Amazon EKS端点。
 
-### 监控工具
+  ### 监控工具
 
 - [Kubebox](https://github.com/astefanutti/kubebox)---Kubebox是Kubernetes集群的终端控制台，它允许您使用漂亮的老式界面来管理和监控集群活动状态。Kubebox显示pod资源使用情况、集群监控和容器日志等。此外，您可以轻松导航到所需的名称空间，并执行到所需的容器中，以便快速进行故障排除/恢复。
 
@@ -441,8 +441,7 @@
 
 - [Dynatrace](https://www.dynatrace.com/)---Dynatrace OneAgent是容器感知的，并内置了对Kubernetes开箱即用监控的支持。Dynatrace为Kubernetes提供全栈监控，即从应用程序到基础设施层的监控。但是，如果您不能访问基础设施层，Dynatrace还提供了只监视应用程序的选项。
 
-### 测试
-
+  ### 测试
 
 - [Kube-monkey]( https://github.com/asobti/kube-monkey)---Kube-monkey是Kubernetes的翻版。Kube-monkey是一种遵循混沌工程原理的工具。它可以随机删除k8豆荚，检查服务具有故障恢复能力，并有助于您的系统的健康。Kube-monkey还通过一个TOML文件进行配置，您可以在该文件中指定要终止哪个应用程序，以及何时实践您的恢复策略。
 
@@ -454,7 +453,7 @@
 
 - [PowerfulSeal](https://github.com/bloomberg/powerfulseal)---PowerfulSeal是一个类似于Kube-monkey的工具，遵循混沌工程的原则。PowerfulSeal可以杀死pod，并从集群中移除/添加vm。与Kube-monkey相比，powerfulseal有一个交互模式，允许您手动破坏特定的集群组件。此外，除了SSH, powerfulseal不需要外部依赖。
 
-### 安全
+  ### 安全
 
 - [Trireme](https://github.com/aporeto-inc/trireme-kubernetes)---Trireme是Kubernetes网络策略的一个灵活而直接的实现。Trireme可以在任何Kubernetes集群中工作，并允许您管理来自不同集群的pod之间的流量。Trireme的主要优点是不需要任何集中的策略管理，能够轻松地组织部署在Kubernetes中的两种资源的交互，并且不需要复杂的SDN、VLAN标签和子网(Trireme使用传统的l3网络)。
 
@@ -468,7 +467,7 @@
 
 - [Kubesec.io](https://kubesec.io)---Kubesec。io是一个服务，允许您为安全特性使用的Kubernetes资源评分。Kubesec。io根据Kubernetes安全最佳实践验证资源配置。因此，对于如何提高整个系统的安全性，您将拥有完全的控制和额外的建议。该网站还包含大量与集装箱和Kubernetes安全相关的外部链接。
 
-### 有用的CLI工具
+  ### 有用的CLI工具
 
 - [Cabin](https://github.com/bitnami-labs/cabin)---Cabin可以作为Kubernetes集群远程管理的移动仪表板。有了Cabin，用户可以从他们的Android或iOS设备上快速管理应用程序、扩展部署，并对整个k8集群进行故障排除。对于k8集群的运营商来说，机舱是一个很好的工具，因为它允许您在发生事故时执行快速补救行动。
 
@@ -478,7 +477,7 @@
 
 - [Kail](https://github.com/boz/kail)---Kail是Kubernetes tail的缩写，为Kubernetes集群工作。使用Kail，你可以跟踪所有匹配的吊舱的Docker日志。Kail允许您根据服务、部署、标签和其他特性过滤豆荚。如果pod符合条件，那么它将在启动后自动添加(或删除)到日志中。
 
-### Development Tools
+  ### Development Tools
 
 - [Telepresence](https://www.telepresence.io/)---Telepresence 提供了从Kubernetes环境到本地进程的代理数据在本地调试Kubernetes集群的可能性。网真能够为您的本地代码提供Kubernetes服务和AWS/GCP资源的访问，因为它将被部署到集群中。使用Telepresence，Kubernetes将本地代码视为集群中的一个普通pod。
 
@@ -502,11 +501,11 @@
 
 - [Kong](https://konghq.com/)---Kong，原名Kong Community (CE)，是由Kong Inc发起的一项可扩展的开源API网关技术，拥有一个不断发展的社区。Kong允许开发者使用Kubernetes管理认证、数据加密、日志记录、速率限制和其他标准功能，这些功能都是他们期望从基本API管理系统中获得的。所有这些都是由一个简单的RESTful API提供的，平台本身构建在NGINX代理服务器和Apache Cassandra数据库管理系统之上。
 
-### 持续集成/持续交付管道
+  ### 持续集成/持续交付管道
 
 - [Cloud 66](https://www.cloud66.com/)---Cloud 66为生产中的容器化应用提供了完整的DevOps工具链，通过专门的运维工具，为开发人员自动化了许多繁重的工作。该平台目前在Kubernetes上运行4000个客户工作负载，并管理2500行配置。通过提供端到端基础设施管理，Cloud 66使工程师能够在任何云或服务器上构建、交付、部署和管理任何应用程序。
 
-### Serverless /函数工具
+  ### Serverless /函数工具
 
 - [Kubeless](https://github.com/kubeless/kubeless)---Kubeless是kubernetes本地的无服务器框架，它允许您部署少量代码，而不必担心底层基础设施。Kubeless了解Kubernetes的开箱即用资源，并提供自动伸缩、API路由、监控和故障排除。Kubeless完全依赖于k8的原语，因此Kubernetes用户也能够使用本地k8的API服务器和API网关。
 
@@ -524,7 +523,7 @@
 
 - [Virtual-Kubelet](https://virtual-kubelet.io/)---Virtual Kubelet是一个开源的Kubernetes Kubelet实现，它将Kubernetes伪装成Kubelet，以便将Kubernetes连接到其他api。Virtual Kubelet允许节点由其他服务支持，如ACI、Hyper.sh和AWS等。该连接器具有可插拔的体系结构和直接使用Kubernetes原语的特点，使构建更加容易。
 
-### 服务网格工具
+  ### 服务网格工具
 
 - [istio/istio](https://github.com/istio/istio)---Istio是一个开放平台，提供统一的方式来集成微服务、管理微服务之间的流量、执行策略和聚合遥测数据。Istio的控制平面在底层集群管理平台(如Kubernetes)上提供了一个抽象层。
 
@@ -532,15 +531,15 @@
 
 - [Hashicorp's Consul](https://www.hashicorp.com/products/consul/)---Consul是一种服务网络解决方案，可跨任何运行时平台和公共或私有云连接和保护服务。和上面的服务网格技术一样，Istio和Linkerd, HashiCorp的Consul Connect选择了一个部署为sidecar的代理。代理透明地保护微服务之间的通信，并通过一个称为意图的概念实现策略定义。
 
-### 本地服务发现
+  ### 本地服务发现
 
 - [Kubernetes Dashboard](https://github.com/kubernetes/dashboard#kubernetes-dashboard)---Kubernetes Dashboard是一个通用的、基于web的Kubernetes集群UI。使用本机仪表板更容易对k8集群进行故障排除和监视。您需要在计算机和Kubernetes API服务器之间创建一个安全的代理通道来访问仪表板。原生Kubernetes仪表板依赖于Heapster数据收集器，因此它也需要安装在系统中。
 
-### 成本管理
+  ### 成本管理
 
 - [Replex](https://www.replex.io/)---Replex是为在Kubernetes环境中工作而设计的同名治理和成本管理平台。该工具通过统一云中部署的成本和治理管理，解决了围绕Kubernetes的动态特性的挑战。
 
-### Oracle
+  ### Oracle
 - [fn](https://github.com/fnproject/fn)---Fn是一个事件驱动的、开源的、功能即服务(FaaS)计算平台，可以在任何地方运行。
 
 - [weblogic-kubernetes-operator](https://github.com/oracle/weblogic-kubernetes-operator)---支持在Kubernetes上运行WebLogic服务器和融合中间件基础架构域，Kubernetes是一个行业标准、云中立部署平台。它允许您将整个WebLogic Server安装和分层应用程序封装到一组可移植的云中立图像和简单的资源描述文件中。您可以在部署操作员的任何支持Kubernetes的本地云或公共云上运行它们。
