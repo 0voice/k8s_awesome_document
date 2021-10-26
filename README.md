@@ -230,9 +230,6 @@
 - [基于 Kubernetes 的跨云 AI 训练平台构建与展望 - ArchSummit](https://pan.baidu.com/s/1cdBBRMwfQNhcYLrPV4uDDA)
 
 
-## 🧾学术论文
-
-
 ## 📂文档库(提取码：1024)
 - [白皮书:Kubernetes如何拯救OpenStack](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E6%A1%A3/%E7%99%BD%E7%9A%AE%E4%B9%A6%EF%BC%9AKubernetes%E5%A6%82%E4%BD%95%E6%8B%AF%E6%95%91OpenStack.pdf)
 
@@ -247,3 +244,5 @@
 - [K8S在华为云的实践与发展-王泽锋](https://pan.baidu.com/s/1ErXlkSIB-bZhV9ce1MM14g)
 
 - [基于Istio+on+Kubernetes云原生应用的最佳实践-王夕宁](https://pan.baidu.com/s/1_FHirCEUWfCo42z5jTQCUQ)
+
+## 🧾学术论文
