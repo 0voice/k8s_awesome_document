@@ -164,6 +164,10 @@ Helm 再次成为最受欢迎的打包 Kubernetes 的方法，成为 64% 的用�
 
 - [《Docker进阶与实战 (容器技术系列)》](https://github.com/0voice/k8s_awesome_document/blob/main/README.md#%E8%81%94%E7%B3%BB%E4%B8%93%E6%A0%8F)
 
+## 📃文章精选
+
+- [备战双 11！蚂蚁金服万级规模 K8s 集群管理系统如何设计？](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E7%AB%A0%E7%B2%BE%E9%80%89/%E5%A4%87%E6%88%98%E5%8F%8C%2011%EF%BC%81%E8%9A%82%E8%9A%81%E9%87%91%E6%9C%8D%E4%B8%87%E7%BA%A7%E8%A7%84%E6%A8%A1%20K8s%20%E9%9B%86%E7%BE%A4%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%EF%BC%9F.md)
+
 ## 📀学习视频(提取码：1024)
 
 - [AWS re-Invent 2017- Mastering Kubernetes on AWS (CON308)](https://pan.baidu.com/s/1q7PqFSTk_bXJikJDdsfBRw)
