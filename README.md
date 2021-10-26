@@ -142,27 +142,27 @@ Helm 再次成为最受欢迎的打包 Kubernetes 的方法，成为 64% 的用�
 
 ### 电子书籍
 
-- [《Docker技术入门与实战（第3版）》杨保华]()
+- [《Docker技术入门与实战（第3版）》杨保华](https://github.com/0voice/k8s_awesome_document/blob/main/README.md#%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%8E%E5%8F%B0%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%B8%88%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC%E9%97%AE%E5%B0%8F%E5%A7%90%E5%A7%90%E7%B4%A2%E5%8F%96%E8%8E%B7%E5%8F%96%E6%9C%ACrepo%E6%9C%80%E5%85%A8pdf%E5%AD%A6%E4%B9%A0%E6%96%87%E6%A1%A3)
 
-- [《Kubernetes_in_Action中文版》七牛容器云团队译]()
+- [《Kubernetes_in_Action中文版》七牛容器云团队译](https://github.com/0voice/k8s_awesome_document/blob/main/README.md#%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%8E%E5%8F%B0%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%B8%88%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC%E9%97%AE%E5%B0%8F%E5%A7%90%E5%A7%90%E7%B4%A2%E5%8F%96%E8%8E%B7%E5%8F%96%E6%9C%ACrepo%E6%9C%80%E5%85%A8pdf%E5%AD%A6%E4%B9%A0%E6%96%87%E6%A1%A3)
 
-- [《Kubernetes进阶实战》马永亮]()
+- [《Kubernetes进阶实战》马永亮](https://github.com/0voice/k8s_awesome_document/blob/main/README.md#%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%8E%E5%8F%B0%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%B8%88%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC%E9%97%AE%E5%B0%8F%E5%A7%90%E5%A7%90%E7%B4%A2%E5%8F%96%E8%8E%B7%E5%8F%96%E6%9C%ACrepo%E6%9C%80%E5%85%A8pdf%E5%AD%A6%E4%B9%A0%E6%96%87%E6%A1%A3)
 
-- [《Kubernetes经典实例》马晶慧译]()
+- [《Kubernetes经典实例》马晶慧译](https://github.com/0voice/k8s_awesome_document/blob/main/README.md#%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%8E%E5%8F%B0%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%B8%88%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC%E9%97%AE%E5%B0%8F%E5%A7%90%E5%A7%90%E7%B4%A2%E5%8F%96%E8%8E%B7%E5%8F%96%E6%9C%ACrepo%E6%9C%80%E5%85%A8pdf%E5%AD%A6%E4%B9%A0%E6%96%87%E6%A1%A3)
 
-- [《Kubernetes权威指南_企业级容器云实战》闫健勇等]()
+- [《Kubernetes权威指南_企业级容器云实战》闫健勇等](https://github.com/0voice/k8s_awesome_document/blob/main/README.md#%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%8E%E5%8F%B0%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%B8%88%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC%E9%97%AE%E5%B0%8F%E5%A7%90%E5%A7%90%E7%B4%A2%E5%8F%96%E8%8E%B7%E5%8F%96%E6%9C%ACrepo%E6%9C%80%E5%85%A8pdf%E5%AD%A6%E4%B9%A0%E6%96%87%E6%A1%A3)
 
-- [《Kubernetes实战》]()
+- [《Kubernetes实战》](https://github.com/0voice/k8s_awesome_document/blob/main/README.md#%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%8E%E5%8F%B0%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%B8%88%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC%E9%97%AE%E5%B0%8F%E5%A7%90%E5%A7%90%E7%B4%A2%E5%8F%96%E8%8E%B7%E5%8F%96%E6%9C%ACrepo%E6%9C%80%E5%85%A8pdf%E5%AD%A6%E4%B9%A0%E6%96%87%E6%A1%A3)
 
-- [《基于Kubernetes的容器云平台实战》陆平等]()
+- [《基于Kubernetes的容器云平台实战》陆平等](https://github.com/0voice/k8s_awesome_document/blob/main/README.md#%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%8E%E5%8F%B0%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%B8%88%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC%E9%97%AE%E5%B0%8F%E5%A7%90%E5%A7%90%E7%B4%A2%E5%8F%96%E8%8E%B7%E5%8F%96%E6%9C%ACrepo%E6%9C%80%E5%85%A8pdf%E5%AD%A6%E4%B9%A0%E6%96%87%E6%A1%A3)
 
-- [《纪念版_Kubernetes权威指南_从Docker到Kubernetes实践全接触》]()
+- [《纪念版_Kubernetes权威指南_从Docker到Kubernetes实践全接触》](https://github.com/0voice/k8s_awesome_document/blob/main/README.md#%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%8E%E5%8F%B0%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%B8%88%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC%E9%97%AE%E5%B0%8F%E5%A7%90%E5%A7%90%E7%B4%A2%E5%8F%96%E8%8E%B7%E5%8F%96%E6%9C%ACrepo%E6%9C%80%E5%85%A8pdf%E5%AD%A6%E4%B9%A0%E6%96%87%E6%A1%A3)
 
-- [《没什么难的Docker入门与开发实战》]()
+- [《没什么难的Docker入门与开发实战》](https://github.com/0voice/k8s_awesome_document/blob/main/README.md#%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%8E%E5%8F%B0%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%B8%88%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC%E9%97%AE%E5%B0%8F%E5%A7%90%E5%A7%90%E7%B4%A2%E5%8F%96%E8%8E%B7%E5%8F%96%E6%9C%ACrepo%E6%9C%80%E5%85%A8pdf%E5%AD%A6%E4%B9%A0%E6%96%87%E6%A1%A3)
 
-- [《每天5分钟玩转Kubernetes》]()
+- [《每天5分钟玩转Kubernetes》](https://github.com/0voice/k8s_awesome_document/blob/main/README.md#%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%8E%E5%8F%B0%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%B8%88%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC%E9%97%AE%E5%B0%8F%E5%A7%90%E5%A7%90%E7%B4%A2%E5%8F%96%E8%8E%B7%E5%8F%96%E6%9C%ACrepo%E6%9C%80%E5%85%A8pdf%E5%AD%A6%E4%B9%A0%E6%96%87%E6%A1%A3)
 
-- [《Docker进阶与实战 (容器技术系列)》]()
+- [《Docker进阶与实战 (容器技术系列)》](https://github.com/0voice/k8s_awesome_document/blob/main/README.md#%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%8E%E5%8F%B0%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%B8%88%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC%E9%97%AE%E5%B0%8F%E5%A7%90%E5%A7%90%E7%B4%A2%E5%8F%96%E8%8E%B7%E5%8F%96%E6%9C%ACrepo%E6%9C%80%E5%85%A8pdf%E5%AD%A6%E4%B9%A0%E6%96%87%E6%A1%A3)
 
 ## 📀学习视频(提取码：1024)
 
