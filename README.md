@@ -28,6 +28,36 @@
 - [cloud-controller-manager](https://kubernetes.io/docs/concepts/overview/components/#cloud-controller-manager) – 负责管理依赖于底层云提供商的控制器流程
 - [kube-scheduler](https://kubernetes.io/docs/reference/generated/kube-scheduler/)– 帮助根据资源利用率调度集群节点上的pod(应用程序进程在其中运行的一组共存的容器)
 
+## 🧿现状
+
+在中国，Kubernetes 已经成为约定俗成的容器编排器。82% 的单位在生产中使用 Kubernetes，和上一次调查的 72%相比有所增长。
+
+[![3.jpg](http://dockone.io/uploads/article/20210429/765d8cc1c27dfa31266bd5d5be7b7c7c.jpg)](http://dockone.io/uploads/article/20210429/765d8cc1c27dfa31266bd5d5be7b7c7c.jpg)
+
+各单位使用 Kubernetes 集群的数量也在增加。调查对象最倾向于选择 2-5 个 Kubernetes 生产集群，今年和去年 35% 的用户都选择了 2-5 个的生产集群配置。使用 50 个以上容器的单位数量也有增长，从 2019 年的 13% 增长到 21%，比 2018 年增长了 320%。
+
+[![4.jpg](http://dockone.io/uploads/article/20210429/e8e1eb533ff606fab9cd6755e4c47cbd.jpg)](http://dockone.io/uploads/article/20210429/e8e1eb533ff606fab9cd6755e4c47cbd.jpg)
+
+#### 分隔 Kubernetes 应用程序 Separating Kubernetes Applications
+
+在使用 Kubernetes 的单位中，84% 使用命名空间分隔应用程序，比 2019 年的 71%增加了。58% 使用分隔集群，比 2019 年的 42% 增加了。26% 仅使用标签，数量与去年持平。
+
+有多个团队的机构中，80% 使用命名空间分隔 Kubernetes 应用程序，比去年的 68%有所增加。60% 使用分隔集群，比去年的 46% 有所增加；还有 22% 仅用标签，比去年的 25% 有所减少。
+
+#### 打包 Packaging
+
+Helm 再次成为最受欢迎的打包 Kubernetes 的方法，成为 64% 的用户选择，比去年的 54%有所增长。
+
+#### Kubernetes 环境 Kubernetes Environments
+
+在本地容器开发期间，37% 的调查对象称他们愿意选择 Docker Kubernetes。与去年相比，这一数字比去年的 42%有所下降。云供应商管理的 Kubernetes 成为 28% 调查对象的选择，比去年的 14%有增长，且超过了去年排名第二的 Minikube，今年选择 Minikube 的用户占 21%，排名第三。
+
+#### 工作负载自动伸缩 Autoscaling Workloads
+
+在计划伸缩 Kubernetes 工作负载的用户中，69% 期望自动伸缩无状态应用，比去年的 54% 有所增长；35% 计划伸缩任务/队列处理，比去年的 26% 有增长；34% 计划自动伸缩有状态应用，比去年的 23% 有增长。
+
+在没有使用 Kubernetes 自动伸缩功能的用户中，31% 已经建立了自己的解决方案，28% 使用第三方解决方案。在上一次调查中，28% 的用户不希望自动伸缩任何工作，但随着越来越多的单位在生产中使用 Kubernetes，这一数字已经下降到了 13%。
+
 ## 📕云原生图书编年史
 
 云原生领域历代发行的图书，目前以中文图书为主。图书资料来自京东、豆瓣。
