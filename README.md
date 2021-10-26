@@ -28,7 +28,7 @@
 - [cloud-controller-manager](https://kubernetes.io/docs/concepts/overview/components/#cloud-controller-manager) – 负责管理依赖于底层云提供商的控制器流程
 - [kube-scheduler](https://kubernetes.io/docs/reference/generated/kube-scheduler/)– 帮助根据资源利用率调度集群节点上的pod(应用程序进程在其中运行的一组共存的容器)
 
-## 🧿现状
+## 🧿论K8s的重要性
 
 在中国，Kubernetes 已经成为约定俗成的容器编排器。82% 的单位在生产中使用 Kubernetes，和上一次调查的 72%相比有所增长。
 
