@@ -211,7 +211,23 @@
 
 - [weblogic-toolkit-ui](https://github.com/oracle/weblogic-toolkit-ui)---WebLogic Kubernetes Toolkit (WKT) 是一组开源工具，可帮助您配置基于 WebLogic 的应用程序以在 Kubernetes 集群上的 Linux 容器中运行。
 
-## 📀学习视频
+## 📀学习视频(提取码：1024)
+
+- [AWS re-Invent 2017- Mastering Kubernetes on AWS (CON308)](https://pan.baidu.com/s/1q7PqFSTk_bXJikJDdsfBRw)
+
+- [K8s 为 AI 应用提供大规模 GPU 算力之实践 - QCon](https://pan.baidu.com/s/1Tj2jk0q17-pTYt-8pPAKFA)
+
+- [【IBM云讲堂】拥抱 K8s 打造现代化 IT](https://pan.baidu.com/s/1geZuFhW9W0s0MPqToLYbSQ)
+
+- [Kubernetes上手之前，你还需要知道这些](https://pan.baidu.com/s/1Jf4QjAUFvstRK92aQ6mK_w)
+
+- [从平台构建到领域深耕- Kubernetes在华为云的实践与发展 - ArchSummit](https://pan.baidu.com/s/1juVS1lxKjkjgSJMiIL8uvw)
+
+- [基于Istio on Kubernetes云原生应用的最佳实践丨Archsummit](https://pan.baidu.com/s/1YQ-W_DZCOSPov-NvacKwPw)
+
+- [Kubernetes 和 Docker 容器在领英的落地实践丨QCon](https://pan.baidu.com/s/17BEe9plksJqa_6suGNz--g)
+
+- [基于 Kubernetes 的跨云 AI 训练平台构建与展望 - ArchSummit](https://pan.baidu.com/s/1cdBBRMwfQNhcYLrPV4uDDA)
 
 
 ## 🧾学术论文
@@ -219,9 +235,15 @@
 
 ## 📂文档库(提取码：1024)
 - [白皮书:Kubernetes如何拯救OpenStack](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E6%A1%A3/%E7%99%BD%E7%9A%AE%E4%B9%A6%EF%BC%9AKubernetes%E5%A6%82%E4%BD%95%E6%8B%AF%E6%95%91OpenStack.pdf)
+
 - [2021年云原生行业研究报告](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E6%A1%A3/2021%E5%B9%B4%E4%BA%91%E5%8E%9F%E7%94%9F%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)
+
 - [石墨文档Go在K8S上微服务的实践-彭友顺](https://pan.baidu.com/s/1uRCajVK2qPqvtLlBwPnKYw)
+
 - [K8s 为 AI 应用提供大规模 GPU 算力之实践-李程](https://pan.baidu.com/s/1VqdLvfdm0YJz7wvLSKoTOg)
+
 - [kubernetes在深度学习场景下的优化以及使用-薛磊](https://pan.baidu.com/s/1UQbaOwMcGBcHTytbaEL10g)
+
 - [K8S在华为云的实践与发展-王泽锋](https://pan.baidu.com/s/1ErXlkSIB-bZhV9ce1MM14g)
+
 - [基于Istio+on+Kubernetes云原生应用的最佳实践-王夕宁](https://pan.baidu.com/s/1_FHirCEUWfCo42z5jTQCUQ)
