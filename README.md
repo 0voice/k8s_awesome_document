@@ -12,7 +12,7 @@
   
 </div>
 
-## 🎉【推荐收藏】[68道常见的Kubernetes面试题总结](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
+## 🎉【推荐收藏】[68道常见的Kubernetes面试题总结](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md) 【[✈目录](https://github.com/0voice/k8s_awesome_document#68-%E9%81%93%E9%9D%A2%E8%AF%95%E9%A2%98)】
 
 ##  🤝跟大厂一起认识K8s
 
