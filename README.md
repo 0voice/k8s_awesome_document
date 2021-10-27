@@ -12,6 +12,8 @@
   
 </div>
 
+## 🎉【推荐收藏】[68道常见的Kubernetes面试题总结](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
+
 ##  🤝跟大厂一起认识K8s
 
 - [Kubernetes 的概述---官方](https://github.com/0voice/k8s_awesome_document/blob/main/%E8%B7%9F%E5%A4%A7%E5%8E%82%E8%AE%A4%E8%AF%86K8s/Kubernetes%20%E7%9A%84%E6%A6%82%E8%BF%B0.md)
