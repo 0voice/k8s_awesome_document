@@ -12,6 +12,17 @@
   
 </div>
 
+# 🎯北斗导航定位系统（目录）
+
+### [@ 认识K8s](https://github.com/0voice/k8s_awesome_document#%E8%B7%9F%E5%A4%A7%E5%8E%82%E4%B8%80%E8%B5%B7%E8%AE%A4%E8%AF%86k8s)
+### [@ 推荐书籍](https://github.com/0voice/k8s_awesome_document#%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D)
+### [@ 精选文章](https://github.com/0voice/k8s_awesome_document#%E6%96%87%E7%AB%A0%E7%B2%BE%E9%80%89)
+### [@ 视频教程](https://github.com/0voice/k8s_awesome_document#%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91%E6%8F%90%E5%8F%96%E7%A0%811024)
+### [@ 面试题](https://github.com/0voice/k8s_awesome_document#68-%E9%81%93%E9%9D%A2%E8%AF%95%E9%A2%98)
+### [@ 文档库](https://github.com/0voice/k8s_awesome_document#%E6%96%87%E6%A1%A3%E5%BA%93%E6%8F%90%E5%8F%96%E7%A0%811024)
+### [@ 开源框架](https://github.com/0voice/k8s_awesome_document#%E7%9B%B8%E5%85%B3%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
+### [@ 资源领取](https://github.com/0voice/k8s_awesome_document#%E8%81%94%E7%B3%BB%E4%B8%93%E6%A0%8F)
+
 ## 🎉【推荐收藏】[68道常见的Kubernetes面试题总结](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md) 【[✈目录](https://github.com/0voice/k8s_awesome_document#68-%E9%81%93%E9%9D%A2%E8%AF%95%E9%A2%98)】
 
 ##  🤝跟大厂一起认识K8s
