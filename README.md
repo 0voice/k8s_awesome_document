@@ -180,8 +180,12 @@ Helm 再次成为最受欢迎的打包 Kubernetes 的方法，成为 64% 的用�
 ## 📃文章精选
 
 - [一文了解 Kubernetes](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E7%AB%A0%E7%B2%BE%E9%80%89/%E4%B8%80%E6%96%87%E4%BA%86%E8%A7%A3%20Kubernetes.md)
-- [备战双 11！蚂蚁金服万级规模 K8s 集群管理系统如何设计？](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E7%AB%A0%E7%B2%BE%E9%80%89/%E5%A4%87%E6%88%98%E5%8F%8C%2011%EF%BC%81%E8%9A%82%E8%9A%81%E9%87%91%E6%9C%8D%E4%B8%87%E7%BA%A7%E8%A7%84%E6%A8%A1%20K8s%20%E9%9B%86%E7%BE%A4%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%EF%BC%9F.md)
 - [一文带你理解14个K8S必备基础概念](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E7%AB%A0%E7%B2%BE%E9%80%89/%E4%B8%80%E6%96%87%E5%B8%A6%E4%BD%A0%E7%90%86%E8%A7%A314%E4%B8%AAK8S%E5%BF%85%E5%A4%87%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md)
+- [Kubernetes 普及系列一：容器基础入门](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E7%AB%A0%E7%B2%BE%E9%80%89/Kubernetes%20%E6%99%AE%E5%8F%8A%E7%B3%BB%E5%88%97%E4%B8%80%EF%BC%9A%E5%AE%B9%E5%99%A8%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8.md)
+- [Kubernetes 普及系列二：一篇文章读懂 Kubernetes](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E7%AB%A0%E7%B2%BE%E9%80%89/Kubernetes%20%E6%99%AE%E5%8F%8A%E7%B3%BB%E5%88%97%E4%BA%8C%EF%BC%9A%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E8%AF%BB%E6%87%82%20Kubernetes.md)
+- [Kubernetes 普及系列三：Kubernetes 搭建实践](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E7%AB%A0%E7%B2%BE%E9%80%89/Kubernetes%20%E6%99%AE%E5%8F%8A%E7%B3%BB%E5%88%97%E4%B8%89%EF%BC%9AKubernetes%20%E6%90%AD%E5%BB%BA%E5%AE%9E%E8%B7%B5.md)
+- [Kubernetes 普及系列四：Kubernetes 常用对象（工作负载）Pod](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E7%AB%A0%E7%B2%BE%E9%80%89/Kubernetes%20%E6%99%AE%E5%8F%8A%E7%B3%BB%E5%88%97%E5%9B%9B%EF%BC%9AKubernetes%20%E5%B8%B8%E7%94%A8%E5%AF%B9%E8%B1%A1%EF%BC%88%E5%B7%A5%E4%BD%9C%E8%B4%9F%E8%BD%BD%EF%BC%89Pod.md)
+- [备战双 11！蚂蚁金服万级规模 K8s 集群管理系统如何设计？](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E7%AB%A0%E7%B2%BE%E9%80%89/%E5%A4%87%E6%88%98%E5%8F%8C%2011%EF%BC%81%E8%9A%82%E8%9A%81%E9%87%91%E6%9C%8D%E4%B8%87%E7%BA%A7%E8%A7%84%E6%A8%A1%20K8s%20%E9%9B%86%E7%BE%A4%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%EF%BC%9F.md)
 
 ## 📀学习视频(提取码：1024)
 
