@@ -272,7 +272,7 @@ init container的运行方式与应用容器不同，它们必须先于应用容
 
 
 
-### 28简述Kubernetes DaemonSet类型的资源特性
+### 28、简述Kubernetes DaemonSet类型的资源特性
 
 DaemonSet资源对象会在每个Kubernetes集群中的节点上运行，并且每个节点只能运行一个Pod，这是它和Deployment资源对象的最大也是唯一的区别。因此，在定义yaml文件中，不支持定义replicas。
 
