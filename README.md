@@ -1,4 +1,4 @@
-# 😀😀😀整理k8s（Kubernetes）的工程师资料，代码，项目，pdf，论文，视频，开源组件，各大厂内部分享资料
+# 😀😀😀【2021年新鲜出炉】k8s（Kubernetes）的工程师资料合辑，书籍推荐，面试题，精选文章，开源项目，PPT，论文，视频，大厂资料。[@云原生](https://baike.baidu.com/item/%E4%BA%91%E5%8E%9F%E7%94%9F/53770166)[@Docker](https://www.docker.com/)
 
 <br>  
 
