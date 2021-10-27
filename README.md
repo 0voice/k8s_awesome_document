@@ -454,6 +454,144 @@ Helm 再次成为最受欢迎的打包 Kubernetes 的方法，成为 64% 的用�
 
 - [基于Istio+on+Kubernetes云原生应用的最佳实践-王夕宁](https://pan.baidu.com/s/1_FHirCEUWfCo42z5jTQCUQ)
 
+## 😇68 道面试题
+
+[1、简述etcd及其特点]()
+
+[2、简述etcd适应的场景]()
+
+[3、简述什么是Kubernetes]()
+
+[4、简述Kubernetes和Docker的关系]()
+
+[5、简述Minikube、Kubectl、Kubelet分别是什么]()
+
+[6、简述Kubernetes常见的部署方式]()
+
+[7、简述Kubernetes如何实现集群管理]()
+
+[8、简述Kubernetes的优势、适应场景及其特点]()
+
+[9、简述Kubernetes的缺点或当前的不足之处]()
+
+[10、简述Kubernetes相关基础概念]()
+
+[11、简述Kubernetes集群相关组件]()
+
+[12、简述Kubernetes RC的机制]()
+
+[13、简述Kubernetes Replica Set和Replication Controller之间有什么区别]()
+
+[14、简述kube-proxy的作用]()
+
+[15、简述kube-proxy iptables的原理]()
+
+[16、简述kube-proxy ipvs的原理]()
+
+[17、简述kube-proxy ipvs和iptables的异同]()
+
+[18、简述Kubernetes中什么是静态Pod]()
+
+[19、简述Kubernetes中Pod可能位于的状态]()
+
+[20、简述Kubernetes创建一个Pod的主要流程？]()
+
+[21、简述Kubernetes中Pod的重启策略]()
+
+[22、简述Kubernetes中Pod的健康检查方式]()
+
+[23、简述Kubernetes Pod的LivenessProbe探针的常见方式]()
+
+[24、简述Kubernetes Pod的常见调度方式]()
+
+[25、简述Kubernetes初始化容器（init container）]()
+
+[26、简述Kubernetes deployment升级过程]()
+
+[27、简述Kubernetes deployment升级策略]()
+
+[28、简述Kubernetes DaemonSet类型的资源特性]()
+
+[29、简述Kubernetes自动扩容机制]()
+
+[30、简述Kubernetes Service类型]()
+
+[31、简述Kubernetes Service分发后端的策略]()
+
+[32、简述Kubernetes Headless Service]()
+
+[33、简述Kubernetes外部如何访问集群内的服务]()
+
+[34、简述Kubernetes ingress]()
+
+[35、简述Kubernetes镜像的下载策略]()
+
+[36、简述Kubernetes的负载均衡器]()
+
+[37、简述Kubernetes各模块如何与API Server通信]()
+
+[38、简述Kubernetes Scheduler作用及实现原理]()
+
+[39、简述Kubernetes Scheduler使用哪两种算法将Pod绑定到worker节点]()
+
+[40、简述Kubernetes kubelet的作用]()
+
+[41、简述Kubernetes kubelet监控Worker节点资源是使用什么组件来实现的]()
+
+[42、简述Kubernetes如何保证集群的安全性]()
+
+[43、简述Kubernetes准入机制]()
+
+[44、简述Kubernetes RBAC及其特点（优势）]()
+
+[45、简述Kubernetes Secret作用]()
+
+[46、简述Kubernetes Secret有哪些使用方式]()
+
+[47、简述Kubernetes PodSecurityPolicy机制]()
+
+[48、简述Kubernetes PodSecurityPolicy机制能实现哪些安全策略]()
+
+[49、简述Kubernetes网络模型]()
+
+[50、简述Kubernetes CNI模型]()
+
+[51、简述Kubernetes网络策略]()
+
+[52、简述Kubernetes网络策略原理]()
+
+[53、简述Kubernetes中flannel的作用]()
+
+[54、简述Kubernetes Calico网络组件实现原理]()
+
+[55、简述Kubernetes共享存储的作用]()
+
+[56、简述Kubernetes数据持久化的方式有哪些]()
+
+[57、简述Kubernetes PV和PVC]()
+
+[58、简述Kubernetes PV生命周期内的阶段]()
+
+[59、简述Kubernetes所支持的存储供应模式]()
+
+[60、简述Kubernetes CSI模型]()
+
+[61、简述Kubernetes Worker节点加入集群的过程]()
+
+[62、简述Kubernetes Pod如何实现对节点的资源控制]()
+
+[63、简述Kubernetes Requests和Limits如何影响Pod的调度]()
+
+[64、简述Kubernetes Metric Service]()
+
+[65、简述Kubernetes中，如何使用EFK实现日志的统一管理]()
+
+[66、简述Kubernetes如何进行优雅的节点关机维护]()
+
+[67、简述Kubernetes集群联邦]()
+
+[68、简述Helm及其优势]()
+
 ## 🏗相关开源项目
 
 - [etcd-io/etcd](https://github.com/etcd-io/etcd)---Etcd是分布式系统中最关键的数据的分布式可靠的键值存储
