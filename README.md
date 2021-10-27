@@ -1,4 +1,4 @@
-# 😀😀😀【2021年新鲜出炉】K8s（Kubernetes）的工程师资料合辑，书籍推荐，面试题，精选文章，开源项目，PPT，论文，视频，大厂资料。[@云原生](https://baike.baidu.com/item/%E4%BA%91%E5%8E%9F%E7%94%9F/53770166)[@Docker](https://www.docker.com/)
+# 😀😀😀【2021年新鲜出炉】K8s（Kubernetes）的工程师资料合辑，书籍推荐，面试题，精选文章，开源项目，PPT，视频，大厂资料。[@云原生](https://baike.baidu.com/item/%E4%BA%91%E5%8E%9F%E7%94%9F/53770166)[@Docker](https://www.docker.com/)
 
 <br>  
 
@@ -776,10 +776,6 @@ Helm 再次成为最受欢迎的打包 Kubernetes 的方法，成为 64% 的用�
 - [zfssa-csi-driver](https://github.com/oracle/zfssa-csi-driver)---Kubernetes容器存储接口(CSI)插件用于Oracle ZFS存储设备。
 
 - [weblogic-toolkit-ui](https://github.com/oracle/weblogic-toolkit-ui)---WebLogic Kubernetes Toolkit (WKT) 是一组开源工具，可帮助您配置基于 WebLogic 的应用程序以在 Kubernetes 集群上的 Linux 容器中运行。
-
-
-
-## 🧾学术论文
 
 ## 联系专栏
 
