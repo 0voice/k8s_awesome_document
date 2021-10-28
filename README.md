@@ -15,7 +15,7 @@
 # 🎯北斗导航定位系统（目录）
 
 ### [@ 认识K8s](https://github.com/0voice/k8s_awesome_document#%E8%B7%9F%E5%A4%A7%E5%8E%82%E4%B8%80%E8%B5%B7%E8%AE%A4%E8%AF%86k8s)
-### [@ 干货铺](https://github.com/0voice/k8s_awesome_document#%E8%B7%9F%E5%A4%A7%E5%8E%82%E4%B8%80%E8%B5%B7%E8%AE%A4%E8%AF%86k8s)
+### [@ 干货铺](https://github.com/0voice/k8s_awesome_document/blob/main/README.md#%E5%B9%B2%E8%B4%A7%E9%93%BA)
 ### [@ 推荐书籍](https://github.com/0voice/k8s_awesome_document#%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D)
 ### [@ 精选文章](https://github.com/0voice/k8s_awesome_document#%E6%96%87%E7%AB%A0%E7%B2%BE%E9%80%89)
 ### [@ 视频教程](https://github.com/0voice/k8s_awesome_document#%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91%E6%8F%90%E5%8F%96%E7%A0%811024)
@@ -35,37 +35,37 @@
 - [Kubernetes 开源知识---华为](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E6%A1%A3/Kubernetes%20%E5%BC%80%E6%BA%90%E7%9F%A5%E8%AF%86.pdf)
 - [深入浅出Kubernetes实战手册(阿里云)](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E6%A1%A3/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAKubernetes%E5%AE%9E%E6%88%98%E6%89%8B%E5%86%8C(%E9%98%BF%E9%87%8C%E4%BA%91)%20.pdf)
 
-## 🌰干货铺
+## 🌰干货铺（欢迎大家lssues）
 
-CNCF官方网站：https://www.cncf.io
+- CNCF官方网站：https://www.cncf.io
 
-Kubernetes官方网站：https://kubernetes.io
+- Kubernetes官方网站：https://kubernetes.io
 
-Kubernetes中文社区 ：http://docs.kubernetes.org.cn
+- Kubernetes中文社区 ：http://docs.kubernetes.org.cn
 
-代码托管：https://github.com/kubernetes
+- 代码托管：https://github.com/kubernetes
 
-深入剖析Kubernetes张磊：https://time.geekbang.org/column/intro/116
+- 深入剖析Kubernetes张磊：https://time.geekbang.org/column/intro/116
 
-Kubernetes Handbook——Kubernetes中文指南/云原生应用架构实践手册：https://jimmysong.io/kubernetes-handbook/
+- Kubernetes Handbook——Kubernetes中文指南/云原生应用架构实践手册：https://jimmysong.io/kubernetes-handbook/
 
-Kubernetes Handbook （Kubernetes指南）：https://kubernetes.feisky.xyz  或  https://github.com/feiskyer/kubernetes-handbook
+- Kubernetes Handbook （Kubernetes指南）：https://kubernetes.feisky.xyz  或  https://github.com/feiskyer/kubernetes-handbook
 
-从Docker到Kubernetes进阶：https://www.qikqiak.com/k8s-book/docs/18.YAML%20%E6%96%87%E4%BB%B6.html
+- 从Docker到Kubernetes进阶：https://www.qikqiak.com/k8s-book/docs/18.YAML%20%E6%96%87%E4%BB%B6.html
 
-才云开源内部 Kubernetes 学习路径：https://github.com/caicloud/kube-ladder#%E7%9B%AE%E6%A0%87-5
+- 才云开源内部 Kubernetes 学习路径：https://github.com/caicloud/kube-ladder#%E7%9B%AE%E6%A0%87-5
 
-走进K8s：https://idig8.com/
+- 走进K8s：https://idig8.com/
 
-K8s源码学习：https://blog.tianfeiyu.com/source-code-reading-notes/
+- K8s源码学习：https://blog.tianfeiyu.com/source-code-reading-notes/
 
-华为云社区Cloud Native Lives：https://bbs.huaweicloud.com/forum/thread-9573-1-1.html
+- 华为云社区Cloud Native Lives：https://bbs.huaweicloud.com/forum/thread-9573-1-1.html
 
-华为云kubernetes管理员实训课：https://bbs.huaweicloud.com/forum/thread-11064-1-1.html
+- 华为云kubernetes管理员实训课：https://bbs.huaweicloud.com/forum/thread-11064-1-1.html
 
-胡伟煌Kubernetes学习笔记：https://www.bookstack.cn/read/huweihuang-kubernetes-notes/README.md
+- 胡伟煌Kubernetes学习笔记：https://www.bookstack.cn/read/huweihuang-kubernetes-notes/README.md
 
-杨明从Docker到Kubernetes进阶：https://www.qikqiak.com/k8s-book/
+- 杨明从Docker到Kubernetes进阶：https://www.qikqiak.com/k8s-book/
 
 ## 🚩核心组件
 - [etcd cluster](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/) –存储Kubernetes集群数据的分布式密钥值存储
