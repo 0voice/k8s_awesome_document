@@ -23,7 +23,7 @@
 ### [@ 开源框架](https://github.com/0voice/k8s_awesome_document#%E7%9B%B8%E5%85%B3%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
 ### [@ 资源领取](https://github.com/0voice/k8s_awesome_document#%E8%81%94%E7%B3%BB%E4%B8%93%E6%A0%8F)
 
-## 🎉【推荐收藏】[68道常见的Kubernetes面试题总结](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md) 
+## 🎉【推荐收藏】[91道常见的Kubernetes面试题总结](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md) 
 
 ##  🤝跟大厂一起认识K8s
 
