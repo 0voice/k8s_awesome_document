@@ -609,6 +609,52 @@ Helm 再次成为最受欢迎的打包 Kubernetes 的方法，成为 64% 的用�
 
 [68、简述Helm及其优势](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#68%E7%AE%80%E8%BF%B0helm%E5%8F%8A%E5%85%B6%E4%BC%98%E5%8A%BF)
 
+[69、k8s是什么？请说出你的了解？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#69k8s%E6%98%AF%E4%BB%80%E4%B9%88%E8%AF%B7%E8%AF%B4%E5%87%BA%E4%BD%A0%E7%9A%84%E4%BA%86%E8%A7%A3)
+
+[70、K8s架构的组成是什么？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#70k8s%E6%9E%B6%E6%9E%84%E7%9A%84%E7%BB%84%E6%88%90%E6%98%AF%E4%BB%80%E4%B9%88)
+
+[71、容器和主机部署应用的区别是什么？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#71%E5%AE%B9%E5%99%A8%E5%92%8C%E4%B8%BB%E6%9C%BA%E9%83%A8%E7%BD%B2%E5%BA%94%E7%94%A8%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88)
+
+[72、请你说一下kubenetes针对pod资源对象的健康监测机制？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#72%E8%AF%B7%E4%BD%A0%E8%AF%B4%E4%B8%80%E4%B8%8Bkubenetes%E9%92%88%E5%AF%B9pod%E8%B5%84%E6%BA%90%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%81%A5%E5%BA%B7%E7%9B%91%E6%B5%8B%E6%9C%BA%E5%88%B6)
+
+[73、如何控制滚动更新过程？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#73%E5%A6%82%E4%BD%95%E6%8E%A7%E5%88%B6%E6%BB%9A%E5%8A%A8%E6%9B%B4%E6%96%B0%E8%BF%87%E7%A8%8B)
+
+[74、K8s中镜像的下载策略是什么？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#74k8s%E4%B8%AD%E9%95%9C%E5%83%8F%E7%9A%84%E4%B8%8B%E8%BD%BD%E7%AD%96%E7%95%A5%E6%98%AF%E4%BB%80%E4%B9%88)
+
+[75、image的状态有哪些？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#75image%E7%9A%84%E7%8A%B6%E6%80%81%E6%9C%89%E5%93%AA%E4%BA%9B)
+
+[76、pod的重启策略是什么？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#76pod%E7%9A%84%E9%87%8D%E5%90%AF%E7%AD%96%E7%95%A5%E6%98%AF%E4%BB%80%E4%B9%88)
+
+[77、Service这种资源对象的作用是什么？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#77service%E8%BF%99%E7%A7%8D%E8%B5%84%E6%BA%90%E5%AF%B9%E8%B1%A1%E7%9A%84%E4%BD%9C%E7%94%A8%E6%98%AF%E4%BB%80%E4%B9%88)
+
+[78、版本回滚相关的命令？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#78%E7%89%88%E6%9C%AC%E5%9B%9E%E6%BB%9A%E7%9B%B8%E5%85%B3%E7%9A%84%E5%91%BD%E4%BB%A4)
+
+[79、标签与标签选择器的作用是什么？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#79%E6%A0%87%E7%AD%BE%E4%B8%8E%E6%A0%87%E7%AD%BE%E9%80%89%E6%8B%A9%E5%99%A8%E7%9A%84%E4%BD%9C%E7%94%A8%E6%98%AF%E4%BB%80%E4%B9%88)
+
+[80、常用的标签分类有哪些？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#80%E5%B8%B8%E7%94%A8%E7%9A%84%E6%A0%87%E7%AD%BE%E5%88%86%E7%B1%BB%E6%9C%89%E5%93%AA%E4%BA%9B)
+
+[81、有几种查看标签的方式？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#81%E6%9C%89%E5%87%A0%E7%A7%8D%E6%9F%A5%E7%9C%8B%E6%A0%87%E7%AD%BE%E7%9A%84%E6%96%B9%E5%BC%8F)
+
+[82、添加、修改、删除标签的命令？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#82%E6%B7%BB%E5%8A%A0%E4%BF%AE%E6%94%B9%E5%88%A0%E9%99%A4%E6%A0%87%E7%AD%BE%E7%9A%84%E5%91%BD%E4%BB%A4)
+
+[83、DaemonSet资源对象的特性？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#83daemonset%E8%B5%84%E6%BA%90%E5%AF%B9%E8%B1%A1%E7%9A%84%E7%89%B9%E6%80%A7)
+
+[84、说说你对Job这种资源对象的了解？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#84%E8%AF%B4%E8%AF%B4%E4%BD%A0%E5%AF%B9job%E8%BF%99%E7%A7%8D%E8%B5%84%E6%BA%90%E5%AF%B9%E8%B1%A1%E7%9A%84%E4%BA%86%E8%A7%A3)
+
+[85、描述一下pod的生命周期有哪些状态？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#85%E6%8F%8F%E8%BF%B0%E4%B8%80%E4%B8%8Bpod%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E6%9C%89%E5%93%AA%E4%BA%9B%E7%8A%B6%E6%80%81)
+
+[86、创建一个pod的流程是什么？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#86%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AApod%E7%9A%84%E6%B5%81%E7%A8%8B%E6%98%AF%E4%BB%80%E4%B9%88)
+
+[87、删除一个Pod会发生什么事情？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#87%E5%88%A0%E9%99%A4%E4%B8%80%E4%B8%AApod%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%E4%BA%8B%E6%83%85)
+
+[88、K8s的Service是什么？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#88k8s%E7%9A%84service%E6%98%AF%E4%BB%80%E4%B9%88)
+
+[89、k8s是怎么进行服务注册的？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#89k8s%E6%98%AF%E6%80%8E%E4%B9%88%E8%BF%9B%E8%A1%8C%E6%9C%8D%E5%8A%A1%E6%B3%A8%E5%86%8C%E7%9A%84)
+
+[90、k8s集群外流量怎么访问Pod？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#90k8s%E9%9B%86%E7%BE%A4%E5%A4%96%E6%B5%81%E9%87%8F%E6%80%8E%E4%B9%88%E8%AE%BF%E9%97%AEpod)
+
+[91、k8s数据持久化的方式有哪些？](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#91k8s%E6%95%B0%E6%8D%AE%E6%8C%81%E4%B9%85%E5%8C%96%E7%9A%84%E6%96%B9%E5%BC%8F%E6%9C%89%E5%93%AA%E4%BA%9B)
+
 ## 🏗相关开源项目
 
 - [etcd-io/etcd](https://github.com/etcd-io/etcd)---Etcd是分布式系统中最关键的数据的分布式可靠的键值存储
