@@ -473,25 +473,25 @@ Helm 再次成为最受欢迎的打包 Kubernetes 的方法，成为 64% 的用�
 
 ## 😇68 道面试题
 
-[1、简述etcd及其特点]()
+[1、简述etcd及其特点](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#1%E7%AE%80%E8%BF%B0etcd%E5%8F%8A%E5%85%B6%E7%89%B9%E7%82%B9)
 
-[2、简述etcd适应的场景]()
+[2、简述etcd适应的场景](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#2%E7%AE%80%E8%BF%B0etcd%E9%80%82%E5%BA%94%E7%9A%84%E5%9C%BA%E6%99%AF)
 
-[3、简述什么是Kubernetes]()
+[3、简述什么是Kubernetes](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#3%E7%AE%80%E8%BF%B0%E4%BB%80%E4%B9%88%E6%98%AFkubernetes)
 
-[4、简述Kubernetes和Docker的关系]()
+[4、简述Kubernetes和Docker的关系](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#4%E7%AE%80%E8%BF%B0kubernetes%E5%92%8Cdocker%E7%9A%84%E5%85%B3%E7%B3%BB)
 
-[5、简述Minikube、Kubectl、Kubelet分别是什么]()
+[5、简述Minikube、Kubectl、Kubelet分别是什么](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#5%E7%AE%80%E8%BF%B0minikubekubectlkubelet%E5%88%86%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88)
 
-[6、简述Kubernetes常见的部署方式]()
+[6、简述Kubernetes常见的部署方式](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#6%E7%AE%80%E8%BF%B0kubernetes%E5%B8%B8%E8%A7%81%E7%9A%84%E9%83%A8%E7%BD%B2%E6%96%B9%E5%BC%8F)
 
-[7、简述Kubernetes如何实现集群管理]()
+[7、简述Kubernetes如何实现集群管理](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#7%E7%AE%80%E8%BF%B0kubernetes%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E9%9B%86%E7%BE%A4%E7%AE%A1%E7%90%86)
 
-[8、简述Kubernetes的优势、适应场景及其特点]()
+[8、简述Kubernetes的优势、适应场景及其特点](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#8%E7%AE%80%E8%BF%B0kubernetes%E7%9A%84%E4%BC%98%E5%8A%BF%E9%80%82%E5%BA%94%E5%9C%BA%E6%99%AF%E5%8F%8A%E5%85%B6%E7%89%B9%E7%82%B9)
 
-[9、简述Kubernetes的缺点或当前的不足之处]()
+[9、简述Kubernetes的缺点或当前的不足之处](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#9%E7%AE%80%E8%BF%B0kubernetes%E7%9A%84%E7%BC%BA%E7%82%B9%E6%88%96%E5%BD%93%E5%89%8D%E7%9A%84%E4%B8%8D%E8%B6%B3%E4%B9%8B%E5%A4%84)
 
-[10、简述Kubernetes相关基础概念]()
+[10、简述Kubernetes相关基础概念](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#10%E7%AE%80%E8%BF%B0kubernetes%E7%9B%B8%E5%85%B3%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5)
 
 [11、简述Kubernetes集群相关组件]()
 
