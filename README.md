@@ -555,59 +555,59 @@ Helm 再次成为最受欢迎的打包 Kubernetes 的方法，成为 64% 的用�
 
 [41、简述Kubernetes kubelet监控Worker节点资源是使用什么组件来实现的](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#41%E7%AE%80%E8%BF%B0kubernetes-kubelet%E7%9B%91%E6%8E%A7worker%E8%8A%82%E7%82%B9%E8%B5%84%E6%BA%90%E6%98%AF%E4%BD%BF%E7%94%A8%E4%BB%80%E4%B9%88%E7%BB%84%E4%BB%B6%E6%9D%A5%E5%AE%9E%E7%8E%B0%E7%9A%84)
 
-[42、简述Kubernetes如何保证集群的安全性]()
+[42、简述Kubernetes如何保证集群的安全性](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#42%E7%AE%80%E8%BF%B0kubernetes%E5%A6%82%E4%BD%95%E4%BF%9D%E8%AF%81%E9%9B%86%E7%BE%A4%E7%9A%84%E5%AE%89%E5%85%A8%E6%80%A7)
 
-[43、简述Kubernetes准入机制]()
+[43、简述Kubernetes准入机制](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#43%E7%AE%80%E8%BF%B0kubernetes%E5%87%86%E5%85%A5%E6%9C%BA%E5%88%B6)
 
-[44、简述Kubernetes RBAC及其特点（优势）]()
+[44、简述Kubernetes RBAC及其特点（优势）](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#44%E7%AE%80%E8%BF%B0kubernetes-rbac%E5%8F%8A%E5%85%B6%E7%89%B9%E7%82%B9%E4%BC%98%E5%8A%BF)
 
-[45、简述Kubernetes Secret作用]()
+[45、简述Kubernetes Secret作用](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#45%E7%AE%80%E8%BF%B0kubernetes-secret%E4%BD%9C%E7%94%A8)
 
-[46、简述Kubernetes Secret有哪些使用方式]()
+[46、简述Kubernetes Secret有哪些使用方式](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#46%E7%AE%80%E8%BF%B0kubernetes-secret%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F)
 
-[47、简述Kubernetes PodSecurityPolicy机制]()
+[47、简述Kubernetes PodSecurityPolicy机制](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#47%E7%AE%80%E8%BF%B0kubernetes-podsecuritypolicy%E6%9C%BA%E5%88%B6)
 
-[48、简述Kubernetes PodSecurityPolicy机制能实现哪些安全策略]()
+[48、简述Kubernetes PodSecurityPolicy机制能实现哪些安全策略](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#48%E7%AE%80%E8%BF%B0kubernetes-podsecuritypolicy%E6%9C%BA%E5%88%B6%E8%83%BD%E5%AE%9E%E7%8E%B0%E5%93%AA%E4%BA%9B%E5%AE%89%E5%85%A8%E7%AD%96%E7%95%A5)
 
-[49、简述Kubernetes网络模型]()
+[49、简述Kubernetes网络模型](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#49%E7%AE%80%E8%BF%B0kubernetes%E7%BD%91%E7%BB%9C%E6%A8%A1%E5%9E%8B)
 
-[50、简述Kubernetes CNI模型]()
+[50、简述Kubernetes CNI模型](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#50%E7%AE%80%E8%BF%B0kubernetes-cni%E6%A8%A1%E5%9E%8B)
 
-[51、简述Kubernetes网络策略]()
+[51、简述Kubernetes网络策略](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#51%E7%AE%80%E8%BF%B0kubernetes%E7%BD%91%E7%BB%9C%E7%AD%96%E7%95%A5)
 
-[52、简述Kubernetes网络策略原理]()
+[52、简述Kubernetes网络策略原理](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#52%E7%AE%80%E8%BF%B0kubernetes%E7%BD%91%E7%BB%9C%E7%AD%96%E7%95%A5%E5%8E%9F%E7%90%86)
 
-[53、简述Kubernetes中flannel的作用]()
+[53、简述Kubernetes中flannel的作用](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#53%E7%AE%80%E8%BF%B0kubernetes%E4%B8%ADflannel%E7%9A%84%E4%BD%9C%E7%94%A8)
 
-[54、简述Kubernetes Calico网络组件实现原理]()
+[54、简述Kubernetes Calico网络组件实现原理](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#54%E7%AE%80%E8%BF%B0kubernetes-calico%E7%BD%91%E7%BB%9C%E7%BB%84%E4%BB%B6%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86)
 
-[55、简述Kubernetes共享存储的作用]()
+[55、简述Kubernetes共享存储的作用](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#55%E7%AE%80%E8%BF%B0kubernetes%E5%85%B1%E4%BA%AB%E5%AD%98%E5%82%A8%E7%9A%84%E4%BD%9C%E7%94%A8)
 
-[56、简述Kubernetes数据持久化的方式有哪些]()
+[56、简述Kubernetes数据持久化的方式有哪些](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#56%E7%AE%80%E8%BF%B0kubernetes%E6%95%B0%E6%8D%AE%E6%8C%81%E4%B9%85%E5%8C%96%E7%9A%84%E6%96%B9%E5%BC%8F%E6%9C%89%E5%93%AA%E4%BA%9B)
 
-[57、简述Kubernetes PV和PVC]()
+[57、简述Kubernetes PV和PVC](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#57%E7%AE%80%E8%BF%B0kubernetes-pv%E5%92%8Cpvc)
 
-[58、简述Kubernetes PV生命周期内的阶段]()
+[58、简述Kubernetes PV生命周期内的阶段](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#58%E7%AE%80%E8%BF%B0kubernetes-pv%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E5%86%85%E7%9A%84%E9%98%B6%E6%AE%B5)
 
-[59、简述Kubernetes所支持的存储供应模式]()
+[59、简述Kubernetes所支持的存储供应模式](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#59%E7%AE%80%E8%BF%B0kubernetes%E6%89%80%E6%94%AF%E6%8C%81%E7%9A%84%E5%AD%98%E5%82%A8%E4%BE%9B%E5%BA%94%E6%A8%A1%E5%BC%8F)
 
-[60、简述Kubernetes CSI模型]()
+[60、简述Kubernetes CSI模型](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#60%E7%AE%80%E8%BF%B0kubernetes-csi%E6%A8%A1%E5%9E%8B)
 
-[61、简述Kubernetes Worker节点加入集群的过程]()
+[61、简述Kubernetes Worker节点加入集群的过程](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#61%E7%AE%80%E8%BF%B0kubernetes-worker%E8%8A%82%E7%82%B9%E5%8A%A0%E5%85%A5%E9%9B%86%E7%BE%A4%E7%9A%84%E8%BF%87%E7%A8%8B)
 
-[62、简述Kubernetes Pod如何实现对节点的资源控制]()
+[62、简述Kubernetes Pod如何实现对节点的资源控制](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#62%E7%AE%80%E8%BF%B0kubernetes-pod%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%AF%B9%E8%8A%82%E7%82%B9%E7%9A%84%E8%B5%84%E6%BA%90%E6%8E%A7%E5%88%B6)
 
-[63、简述Kubernetes Requests和Limits如何影响Pod的调度]()
+[63、简述Kubernetes Requests和Limits如何影响Pod的调度](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#63%E7%AE%80%E8%BF%B0kubernetes-requests%E5%92%8Climits%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8Dpod%E7%9A%84%E8%B0%83%E5%BA%A6)
 
-[64、简述Kubernetes Metric Service]()
+[64、简述Kubernetes Metric Service](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#64%E7%AE%80%E8%BF%B0kubernetes-metric-service)
 
-[65、简述Kubernetes中，如何使用EFK实现日志的统一管理]()
+[65、简述Kubernetes中，如何使用EFK实现日志的统一管理](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#65%E7%AE%80%E8%BF%B0kubernetes%E4%B8%AD%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8efk%E5%AE%9E%E7%8E%B0%E6%97%A5%E5%BF%97%E7%9A%84%E7%BB%9F%E4%B8%80%E7%AE%A1%E7%90%86)
 
-[66、简述Kubernetes如何进行优雅的节点关机维护]()
+[66、简述Kubernetes如何进行优雅的节点关机维护](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#66%E7%AE%80%E8%BF%B0kubernetes%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E4%BC%98%E9%9B%85%E7%9A%84%E8%8A%82%E7%82%B9%E5%85%B3%E6%9C%BA%E7%BB%B4%E6%8A%A4)
 
-[67、简述Kubernetes集群联邦]()
+[67、简述Kubernetes集群联邦](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#67%E7%AE%80%E8%BF%B0kubernetes%E9%9B%86%E7%BE%A4%E8%81%94%E9%82%A6)
 
-[68、简述Helm及其优势]()
+[68、简述Helm及其优势](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#68%E7%AE%80%E8%BF%B0helm%E5%8F%8A%E5%85%B6%E4%BC%98%E5%8A%BF)
 
 ## 🏗相关开源项目
 
