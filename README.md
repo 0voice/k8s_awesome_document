@@ -43,6 +43,8 @@
 
 - Kubernetes中文社区 ：http://docs.kubernetes.org.cn
 
+- Kubernetes中文指南/实践手册（201801）:https://www.bookstack.cn/read/kubernetes-handbook/SUMMARY.md
+
 - 代码托管：https://github.com/kubernetes
 
 - 深入剖析Kubernetes张磊：https://time.geekbang.org/column/intro/116
