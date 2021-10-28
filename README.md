@@ -16,6 +16,7 @@
 
 ### [@ 认识K8s](https://github.com/0voice/k8s_awesome_document#%E8%B7%9F%E5%A4%A7%E5%8E%82%E4%B8%80%E8%B5%B7%E8%AE%A4%E8%AF%86k8s)
 ### [@ 干货铺](https://github.com/0voice/k8s_awesome_document/blob/main/README.md#%E5%B9%B2%E8%B4%A7%E9%93%BA%E6%AC%A2%E8%BF%8E%E5%A4%A7%E5%AE%B6lssues)
+### [@公众号推荐]()
 ### [@ 推荐书籍](https://github.com/0voice/k8s_awesome_document#%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D)
 ### [@ 精选文章](https://github.com/0voice/k8s_awesome_document#%E6%96%87%E7%AB%A0%E7%B2%BE%E9%80%89)
 ### [@ 视频教程](https://github.com/0voice/k8s_awesome_document#%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91%E6%8F%90%E5%8F%96%E7%A0%811024)
@@ -73,6 +74,16 @@
 - 2020年最新Kubernetes（K8s）零基础从入门到精通（清华北大博士亲授）:https://www.bilibili.com/video/BV1CC4y1W7de?p=1
 
 - Kubernetes 入门公开课（CNCF 官方认证）:https://www.bilibili.com/video/BV1Et411j7R2
+
+### 公众号推荐（欢迎大家lssues）
+
+- 【Kubernetes】
+- 【K8S中文社区】
+- 【K8S技术社区】
+- 【DevOps技术栈】
+- 【Docker中文社区】
+- 【阿里巴巴云原生】
+- 【腾讯云原生】
 
 
 ## 🚩核心组件
