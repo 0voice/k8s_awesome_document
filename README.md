@@ -15,7 +15,7 @@
 # 🎯北斗导航定位系统（目录）
 
 ### [@ 认识K8s](https://github.com/0voice/k8s_awesome_document#%E8%B7%9F%E5%A4%A7%E5%8E%82%E4%B8%80%E8%B5%B7%E8%AE%A4%E8%AF%86k8s)
-### [@ 干货铺](https://github.com/0voice/k8s_awesome_document/blob/main/README.md#%E5%B9%B2%E8%B4%A7%E9%93%BA)
+### [@ 干货铺](https://github.com/0voice/k8s_awesome_document/blob/main/README.md#%E5%B9%B2%E8%B4%A7%E9%93%BA%E6%AC%A2%E8%BF%8E%E5%A4%A7%E5%AE%B6lssues)
 ### [@ 推荐书籍](https://github.com/0voice/k8s_awesome_document#%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D)
 ### [@ 精选文章](https://github.com/0voice/k8s_awesome_document#%E6%96%87%E7%AB%A0%E7%B2%BE%E9%80%89)
 ### [@ 视频教程](https://github.com/0voice/k8s_awesome_document#%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91%E6%8F%90%E5%8F%96%E7%A0%811024)
