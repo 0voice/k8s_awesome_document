@@ -493,67 +493,67 @@ Helm 再次成为最受欢迎的打包 Kubernetes 的方法，成为 64% 的用�
 
 [10、简述Kubernetes相关基础概念](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#10%E7%AE%80%E8%BF%B0kubernetes%E7%9B%B8%E5%85%B3%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5)
 
-[11、简述Kubernetes集群相关组件]()
+[11、简述Kubernetes集群相关组件](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#11%E7%AE%80%E8%BF%B0kubernetes%E9%9B%86%E7%BE%A4%E7%9B%B8%E5%85%B3%E7%BB%84%E4%BB%B6)
 
-[12、简述Kubernetes RC的机制]()
+[12、简述Kubernetes RC的机制](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#12%E7%AE%80%E8%BF%B0kubernetes-rc%E7%9A%84%E6%9C%BA%E5%88%B6)
 
-[13、简述Kubernetes Replica Set和Replication Controller之间有什么区别]()
+[13、简述Kubernetes Replica Set和Replication Controller之间有什么区别](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#13%E7%AE%80%E8%BF%B0kubernetes-replica-set%E5%92%8Creplication-controller%E4%B9%8B%E9%97%B4%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
 
-[14、简述kube-proxy的作用]()
+[14、简述kube-proxy的作用](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#14%E7%AE%80%E8%BF%B0kube-proxy%E7%9A%84%E4%BD%9C%E7%94%A8)
 
-[15、简述kube-proxy iptables的原理]()
+[15、简述kube-proxy iptables的原理](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#15%E7%AE%80%E8%BF%B0kube-proxy-iptables%E7%9A%84%E5%8E%9F%E7%90%86)
 
-[16、简述kube-proxy ipvs的原理]()
+[16、简述kube-proxy ipvs的原理](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#16%E7%AE%80%E8%BF%B0kube-proxy-ipvs%E7%9A%84%E5%8E%9F%E7%90%86)
 
-[17、简述kube-proxy ipvs和iptables的异同]()
+[17、简述kube-proxy ipvs和iptables的异同](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#17%E7%AE%80%E8%BF%B0kube-proxy-ipvs%E5%92%8Ciptables%E7%9A%84%E5%BC%82%E5%90%8C)
 
-[18、简述Kubernetes中什么是静态Pod]()
+[18、简述Kubernetes中什么是静态Pod](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#18%E7%AE%80%E8%BF%B0kubernetes%E4%B8%AD%E4%BB%80%E4%B9%88%E6%98%AF%E9%9D%99%E6%80%81pod)
 
-[19、简述Kubernetes中Pod可能位于的状态]()
+[19、简述Kubernetes中Pod可能位于的状态](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#19%E7%AE%80%E8%BF%B0kubernetes%E4%B8%ADpod%E5%8F%AF%E8%83%BD%E4%BD%8D%E4%BA%8E%E7%9A%84%E7%8A%B6%E6%80%81)
 
-[20、简述Kubernetes创建一个Pod的主要流程？]()
+[20、简述Kubernetes创建一个Pod的主要流程？](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#20%E7%AE%80%E8%BF%B0kubernetes%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AApod%E7%9A%84%E4%B8%BB%E8%A6%81%E6%B5%81%E7%A8%8B)
 
-[21、简述Kubernetes中Pod的重启策略]()
+[21、简述Kubernetes中Pod的重启策略](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#21%E7%AE%80%E8%BF%B0kubernetes%E4%B8%ADpod%E7%9A%84%E9%87%8D%E5%90%AF%E7%AD%96%E7%95%A5)
 
-[22、简述Kubernetes中Pod的健康检查方式]()
+[22、简述Kubernetes中Pod的健康检查方式](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#22%E7%AE%80%E8%BF%B0kubernetes%E4%B8%ADpod%E7%9A%84%E5%81%A5%E5%BA%B7%E6%A3%80%E6%9F%A5%E6%96%B9%E5%BC%8F)
 
-[23、简述Kubernetes Pod的LivenessProbe探针的常见方式]()
+[23、简述Kubernetes Pod的LivenessProbe探针的常见方式](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#23%E7%AE%80%E8%BF%B0kubernetes-pod%E7%9A%84livenessprobe%E6%8E%A2%E9%92%88%E7%9A%84%E5%B8%B8%E8%A7%81%E6%96%B9%E5%BC%8F)
 
-[24、简述Kubernetes Pod的常见调度方式]()
+[24、简述Kubernetes Pod的常见调度方式](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#24%E7%AE%80%E8%BF%B0kubernetes-pod%E7%9A%84%E5%B8%B8%E8%A7%81%E8%B0%83%E5%BA%A6%E6%96%B9%E5%BC%8F)
 
-[25、简述Kubernetes初始化容器（init container）]()
+[25、简述Kubernetes初始化容器（init container）](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#25%E7%AE%80%E8%BF%B0kubernetes%E5%88%9D%E5%A7%8B%E5%8C%96%E5%AE%B9%E5%99%A8init-container)
 
-[26、简述Kubernetes deployment升级过程]()
+[26、简述Kubernetes deployment升级过程](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#26%E7%AE%80%E8%BF%B0kubernetes-deployment%E5%8D%87%E7%BA%A7%E8%BF%87%E7%A8%8B)
 
-[27、简述Kubernetes deployment升级策略]()
+[27、简述Kubernetes deployment升级策略](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#27%E7%AE%80%E8%BF%B0kubernetes-deployment%E5%8D%87%E7%BA%A7%E7%AD%96%E7%95%A5)
 
-[28、简述Kubernetes DaemonSet类型的资源特性]()
+[28、简述Kubernetes DaemonSet类型的资源特性](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#28%E7%AE%80%E8%BF%B0kubernetes-daemonset%E7%B1%BB%E5%9E%8B%E7%9A%84%E8%B5%84%E6%BA%90%E7%89%B9%E6%80%A7)
 
-[29、简述Kubernetes自动扩容机制]()
+[29、简述Kubernetes自动扩容机制](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#29%E7%AE%80%E8%BF%B0kubernetes%E8%87%AA%E5%8A%A8%E6%89%A9%E5%AE%B9%E6%9C%BA%E5%88%B6)
 
-[30、简述Kubernetes Service类型]()
+[30、简述Kubernetes Service类型](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#30%E7%AE%80%E8%BF%B0kubernetes-service%E7%B1%BB%E5%9E%8B)
 
-[31、简述Kubernetes Service分发后端的策略]()
+[31、简述Kubernetes Service分发后端的策略](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#31%E7%AE%80%E8%BF%B0kubernetes-service%E5%88%86%E5%8F%91%E5%90%8E%E7%AB%AF%E7%9A%84%E7%AD%96%E7%95%A5)
 
-[32、简述Kubernetes Headless Service]()
+[32、简述Kubernetes Headless Service](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#32%E7%AE%80%E8%BF%B0kubernetes-headless-service)
 
-[33、简述Kubernetes外部如何访问集群内的服务]()
+[33、简述Kubernetes外部如何访问集群内的服务](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#33%E7%AE%80%E8%BF%B0kubernetes%E5%A4%96%E9%83%A8%E5%A6%82%E4%BD%95%E8%AE%BF%E9%97%AE%E9%9B%86%E7%BE%A4%E5%86%85%E7%9A%84%E6%9C%8D%E5%8A%A1)
 
-[34、简述Kubernetes ingress]()
+[34、简述Kubernetes ingress](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#34%E7%AE%80%E8%BF%B0kubernetes-ingress)
 
-[35、简述Kubernetes镜像的下载策略]()
+[35、简述Kubernetes镜像的下载策略](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#35%E7%AE%80%E8%BF%B0kubernetes%E9%95%9C%E5%83%8F%E7%9A%84%E4%B8%8B%E8%BD%BD%E7%AD%96%E7%95%A5)
 
-[36、简述Kubernetes的负载均衡器]()
+[36、简述Kubernetes的负载均衡器](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#36%E7%AE%80%E8%BF%B0kubernetes%E7%9A%84%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E5%99%A8)
 
-[37、简述Kubernetes各模块如何与API Server通信]()
+[37、简述Kubernetes各模块如何与API Server通信](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#37%E7%AE%80%E8%BF%B0kubernetes%E5%90%84%E6%A8%A1%E5%9D%97%E5%A6%82%E4%BD%95%E4%B8%8Eapi-server%E9%80%9A%E4%BF%A1)
 
-[38、简述Kubernetes Scheduler作用及实现原理]()
+[38、简述Kubernetes Scheduler作用及实现原理](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#38%E7%AE%80%E8%BF%B0kubernetes-scheduler%E4%BD%9C%E7%94%A8%E5%8F%8A%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86)
 
-[39、简述Kubernetes Scheduler使用哪两种算法将Pod绑定到worker节点]()
+[39、简述Kubernetes Scheduler使用哪两种算法将Pod绑定到worker节点](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#39%E7%AE%80%E8%BF%B0kubernetes-scheduler%E4%BD%BF%E7%94%A8%E5%93%AA%E4%B8%A4%E7%A7%8D%E7%AE%97%E6%B3%95%E5%B0%86pod%E7%BB%91%E5%AE%9A%E5%88%B0worker%E8%8A%82%E7%82%B9)
 
-[40、简述Kubernetes kubelet的作用]()
+[40、简述Kubernetes kubelet的作用](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#40%E7%AE%80%E8%BF%B0kubernetes-kubelet%E7%9A%84%E4%BD%9C%E7%94%A8)
 
-[41、简述Kubernetes kubelet监控Worker节点资源是使用什么组件来实现的]()
+[41、简述Kubernetes kubelet监控Worker节点资源是使用什么组件来实现的](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#41%E7%AE%80%E8%BF%B0kubernetes-kubelet%E7%9B%91%E6%8E%A7worker%E8%8A%82%E7%82%B9%E8%B5%84%E6%BA%90%E6%98%AF%E4%BD%BF%E7%94%A8%E4%BB%80%E4%B9%88%E7%BB%84%E4%BB%B6%E6%9D%A5%E5%AE%9E%E7%8E%B0%E7%9A%84)
 
 [42、简述Kubernetes如何保证集群的安全性]()
 
