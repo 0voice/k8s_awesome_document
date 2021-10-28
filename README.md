@@ -67,6 +67,11 @@
 
 - 杨明从Docker到Kubernetes进阶：https://www.qikqiak.com/k8s-book/
 
+- 2020年最新Kubernetes（K8s）零基础从入门到精通（清华北大博士亲授）:https://www.bilibili.com/video/BV1CC4y1W7de?p=1
+
+- Kubernetes 入门公开课（CNCF 官方认证）:https://www.bilibili.com/video/BV1Et411j7R2
+
+
 ## 🚩核心组件
 - [etcd cluster](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/) –存储Kubernetes集群数据的分布式密钥值存储
 - [kube-apiserver](https://kubernetes.io/docs/reference/generated/kube-apiserver/) – 接收所有修改集群元素的REST请求的中央管理实体
