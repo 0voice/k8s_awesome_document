@@ -20,7 +20,7 @@
 ### [@ 推荐书籍](https://github.com/0voice/k8s_awesome_document#%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D)
 ### [@ 精选文章](https://github.com/0voice/k8s_awesome_document#%E6%96%87%E7%AB%A0%E7%B2%BE%E9%80%89)
 ### [@ 视频教程](https://github.com/0voice/k8s_awesome_document#%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91%E6%8F%90%E5%8F%96%E7%A0%811024)
-### [@ 面试题](https://github.com/0voice/k8s_awesome_document#68-%E9%81%93%E9%9D%A2%E8%AF%95%E9%A2%98)
+### [@ 面试题](https://github.com/0voice/k8s_awesome_document#91-%E9%81%93%E9%9D%A2%E8%AF%95%E9%A2%98)
 ### [@ 文档库](https://github.com/0voice/k8s_awesome_document#%E6%96%87%E6%A1%A3%E5%BA%93%E6%8F%90%E5%8F%96%E7%A0%811024)
 ### [@ 开源框架](https://github.com/0voice/k8s_awesome_document#%E7%9B%B8%E5%85%B3%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
 ### [@ 资源领取](https://github.com/0voice/k8s_awesome_document#%E8%81%94%E7%B3%BB%E4%B8%93%E6%A0%8F)
