@@ -529,7 +529,7 @@ Helm 再次成为最受欢迎的打包 Kubernetes 的方法，成为 64% 的用�
 
 - [基于Istio+on+Kubernetes云原生应用的最佳实践-王夕宁](https://pan.baidu.com/s/1_FHirCEUWfCo42z5jTQCUQ)
 
-## 😇68 道面试题
+## 😇91 道面试题
 
 [1、简述etcd及其特点](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#1%E7%AE%80%E8%BF%B0etcd%E5%8F%8A%E5%85%B6%E7%89%B9%E7%82%B9)
 
