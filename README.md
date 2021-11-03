@@ -49,8 +49,6 @@
 
 - 代码托管：https://github.com/kubernetes
 
-- 深入剖析Kubernetes张磊：https://time.geekbang.org/column/intro/116
-
 - Kubernetes Handbook——Kubernetes中文指南/云原生应用架构实践手册：https://jimmysong.io/kubernetes-handbook/
 
 - Kubernetes Handbook （Kubernetes指南）：https://kubernetes.feisky.xyz  或  https://github.com/feiskyer/kubernetes-handbook
@@ -59,8 +57,6 @@
 
 - 才云开源内部 Kubernetes 学习路径：https://github.com/caicloud/kube-ladder#%E7%9B%AE%E6%A0%87-5
 
-- 走进K8s：https://idig8.com/
-
 - K8s源码学习：https://blog.tianfeiyu.com/source-code-reading-notes/
 
 - 华为云社区Cloud Native Lives：https://bbs.huaweicloud.com/forum/thread-9573-1-1.html
@@ -68,8 +64,6 @@
 - 华为云kubernetes管理员实训课：https://bbs.huaweicloud.com/forum/thread-11064-1-1.html
 
 - 胡伟煌Kubernetes学习笔记：https://www.bookstack.cn/read/huweihuang-kubernetes-notes/README.md
-
-- 杨明从Docker到Kubernetes进阶：https://www.qikqiak.com/k8s-book/
 
 - 2020年最新Kubernetes（K8s）零基础从入门到精通（清华北大博士亲授）:https://www.bilibili.com/video/BV1CC4y1W7de?p=1
 
