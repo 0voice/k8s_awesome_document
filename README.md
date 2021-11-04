@@ -259,7 +259,44 @@ Helm 再次成为最受欢迎的打包 Kubernetes 的方法，成为 64% 的用�
 
 - [基于 Kubernetes 的跨云 AI 训练平台构建与展望 - ArchSummit](https://pan.baidu.com/s/1cdBBRMwfQNhcYLrPV4uDDA)
 
-  ### 阿里开发者课程
+  #### ------华为云Cloud Native Lives系列直播 （含PPT文档）-------
+  
+- [第1课：云原生技术的前世今生](https://pan.baidu.com/s/1RyPSyaFU3xU3J5t7bmPErA)
+
+- [第2课：K8S初体验，快速部署第一个容器应用](https://pan.baidu.com/s/1RyPSyaFU3xU3J5t7bmPErA)
+
+- [第3课：K8S工作负载原理剖析和实践](https://pan.baidu.com/s/1RyPSyaFU3xU3J5t7bmPErA)
+
+- [第4课：K8s调度器原理剖析和实践](https://pan.baidu.com/s/1RyPSyaFU3xU3J5t7bmPErA)
+
+- [第5课：K8S网络模型原理剖析与实践](https://pan.baidu.com/s/1RyPSyaFU3xU3J5t7bmPErA)
+
+- [第6课：K8S服务发现与负载均衡原理剖析与实践](https://pan.baidu.com/s/1RyPSyaFU3xU3J5t7bmPErA)
+
+- [第7课：K8S存储原理剖析与实践](https://pan.baidu.com/s/1RyPSyaFU3xU3J5t7bmPErA)
+
+- [第8课：K8S安全原理剖析与实践_视频_云社区-华为云](https://pan.baidu.com/s/1RyPSyaFU3xU3J5t7bmPErA)
+  
+  #### ------华为云kubernetes管理员实训课 （含PPT文档）-------
+  
+- [第1课：Istio架构与技术](https://pan.baidu.com/s/1jmaNl0_ABUvKMdsP0_EMtg)
+
+- [第2课：Istio Pilot 与服务发现](https://pan.baidu.com/s/1jmaNl0_ABUvKMdsP0_EMtg)
+
+- [第3课：Istio Gateway设计与技术](https://pan.baidu.com/s/1jmaNl0_ABUvKMdsP0_EMtg)
+
+- [第4课：Istio灰度发布与技术实现](https://pan.baidu.com/s/1jmaNl0_ABUvKMdsP0_EMtg)
+
+- [第5课：Istio xDS协议解析](https://pan.baidu.com/s/1jmaNl0_ABUvKMdsP0_EMtg)
+
+- [第6课：K8S安全管理实训](https://pan.baidu.com/s/1jmaNl0_ABUvKMdsP0_EMtg)
+
+- [第7课：K8S集群运维与安装配置实训](https://pan.baidu.com/s/1jmaNl0_ABUvKMdsP0_EMtg)
+
+- [第8课：K8S问题排查实训](https://pan.baidu.com/s/1jmaNl0_ABUvKMdsP0_EMtg)
+
+
+  #### ------阿里开发者课程------
 
   #### 第1 章 ： 第一堂“云原生”课
 
