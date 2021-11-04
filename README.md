@@ -67,8 +67,6 @@
 
 - 胡伟煌Kubernetes学习笔记：https://www.bookstack.cn/read/huweihuang-kubernetes-notes/README.md
 
-- 2020年最新Kubernetes（K8s）零基础从入门到精通（清华北大博士亲授）:https://www.bilibili.com/video/BV1CC4y1W7de?p=1
-
 - Kubernetes 入门公开课（CNCF 官方认证）:https://www.bilibili.com/video/BV1Et411j7R2
 
 ### 公众号推荐（欢迎大家lssues）
