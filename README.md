@@ -525,6 +525,24 @@ Helm 再次成为最受欢迎的打包 Kubernetes 的方法，成为 64% 的用�
 
 - [基于Istio+on+Kubernetes云原生应用的最佳实践-王夕宁](https://pan.baidu.com/s/1_FHirCEUWfCo42z5jTQCUQ)
 
+- [Cloud Native Lives 课程一：云原生技术的前世今生.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/文档/Cloud Native Lives 课程一：云原生技术的前世今生 (1).pdf)
+
+- [Cloud Native Lives 课程二：Kubernetes初体验-快速部署第一个容器应用.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/文档/Cloud Native Lives 课程二：Kubernetes初体验-快速部署第一个容器应用.pdf)
+
+- [Cloud Native Lives 课程三：Kubernetes工作负载剖析与实践.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/文档/Cloud Native Lives 课程三：Kubernetes工作负载剖析与实践.pdf)
+
+- [Cloud Native Lives 课程四：K8S调度原理剖析和实践-v0.4.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/文档/Cloud Native Lives 课程四：K8S调度原理剖析和实践-v0.4.pdf)
+
+- [Cloud Native Lives 课程五：Kubernetes网络模型.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/文档/Cloud Native Lives 课程五：Kubernetes网络模型.pdf)
+
+- [Cloud Native Lives 课程七：K8S存储原理剖析与实践.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/文档/Cloud Native Lives 课程七：K8S存储原理剖析与实践.pdf)
+
+- [Cloud Native Lives 课程八：K8S安全.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/文档/Cloud Native Lives 课程八：K8S安全.pdf)
+
+- [Cloud Native Lives 课程六：K8S Service.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/文档/Cloud Native Lives 课程六：K8S Service.pdf)
+
+
+
 ## 😇91 道面试题
 
 [1、简述etcd及其特点](https://github.com/0voice/k8s_awesome_document/blob/main/68%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md#1%E7%AE%80%E8%BF%B0etcd%E5%8F%8A%E5%85%B6%E7%89%B9%E7%82%B9)
