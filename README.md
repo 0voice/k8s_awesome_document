@@ -525,21 +525,23 @@ Helm 再次成为最受欢迎的打包 Kubernetes 的方法，成为 64% 的用�
 
 - [基于Istio+on+Kubernetes云原生应用的最佳实践-王夕宁](https://pan.baidu.com/s/1_FHirCEUWfCo42z5jTQCUQ)
 
-- [Cloud Native Lives 课程一：云原生技术的前世今生.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/文档/Cloud Native Lives 课程一：云原生技术的前世今生 (1).pdf)
+- [Cloud Native Lives 课程一：云原生技术的前世今生.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E6%A1%A3/Cloud%20Native%20Lives%20%E8%AF%BE%E7%A8%8B%E4%B8%80%EF%BC%9A%E4%BA%91%E5%8E%9F%E7%94%9F%E6%8A%80%E6%9C%AF%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F%20(1).pdf)
 
-- [Cloud Native Lives 课程二：Kubernetes初体验-快速部署第一个容器应用.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/文档/Cloud Native Lives 课程二：Kubernetes初体验-快速部署第一个容器应用.pdf)
+- [Cloud Native Lives 课程二：Kubernetes初体验-快速部署第一个容器应用.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E6%A1%A3/Cloud%20Native%20Lives%20%E8%AF%BE%E7%A8%8B%E4%BA%8C%EF%BC%9AKubernetes%E5%88%9D%E4%BD%93%E9%AA%8C-%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%AE%B9%E5%99%A8%E5%BA%94%E7%94%A8.pdf)
 
-- [Cloud Native Lives 课程三：Kubernetes工作负载剖析与实践.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/文档/Cloud Native Lives 课程三：Kubernetes工作负载剖析与实践.pdf)
+- [Cloud Native Lives 课程三：Kubernetes工作负载剖析与实践.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E6%A1%A3/Cloud%20Native%20Lives%20%E8%AF%BE%E7%A8%8B%E4%B8%89%EF%BC%9AKubernetes%E5%B7%A5%E4%BD%9C%E8%B4%9F%E8%BD%BD%E5%89%96%E6%9E%90%E4%B8%8E%E5%AE%9E%E8%B7%B5.pdf)
 
-- [Cloud Native Lives 课程四：K8S调度原理剖析和实践-v0.4.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/文档/Cloud Native Lives 课程四：K8S调度原理剖析和实践-v0.4.pdf)
+- [Cloud Native Lives 课程四：K8S调度原理剖析和实践-v0.4.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E6%A1%A3/Cloud%20Native%20Lives%20%E8%AF%BE%E7%A8%8B%E5%9B%9B%EF%BC%9AK8S%E8%B0%83%E5%BA%A6%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90%E5%92%8C%E5%AE%9E%E8%B7%B5-v0.4.pdf)
 
-- [Cloud Native Lives 课程五：Kubernetes网络模型.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/文档/Cloud Native Lives 课程五：Kubernetes网络模型.pdf)
+- [Cloud Native Lives 课程五：Kubernetes网络模型.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E6%A1%A3/Cloud%20Native%20Lives%20%E8%AF%BE%E7%A8%8B%E4%BA%94%EF%BC%9AKubernetes%E7%BD%91%E7%BB%9C%E6%A8%A1%E5%9E%8B.pdf)
 
-- [Cloud Native Lives 课程七：K8S存储原理剖析与实践.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/文档/Cloud Native Lives 课程七：K8S存储原理剖析与实践.pdf)
+- [Cloud Native Lives 课程六：K8S Service.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E6%A1%A3/Cloud%20Native%20Lives%20%E8%AF%BE%E7%A8%8B%E5%85%AD%EF%BC%9AK8S%20Service.pdf)
 
-- [Cloud Native Lives 课程八：K8S安全.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/文档/Cloud Native Lives 课程八：K8S安全.pdf)
+- [Cloud Native Lives 课程七：K8S存储原理剖析与实践.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E6%A1%A3/Cloud%20Native%20Lives%20%E8%AF%BE%E7%A8%8B%E4%B8%83%EF%BC%9AK8S%E5%AD%98%E5%82%A8%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90%E4%B8%8E%E5%AE%9E%E8%B7%B5.pdf)
 
-- [Cloud Native Lives 课程六：K8S Service.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/文档/Cloud Native Lives 课程六：K8S Service.pdf)
+- [Cloud Native Lives 课程八：K8S安全.pdf](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E6%A1%A3/Cloud%20Native%20Lives%20%E8%AF%BE%E7%A8%8B%E5%85%AB%EF%BC%9AK8S%E5%AE%89%E5%85%A8.pdf)
+
+
 
 
 
