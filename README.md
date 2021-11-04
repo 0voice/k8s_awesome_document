@@ -25,6 +25,8 @@
 ### [@ 开源框架](https://github.com/0voice/k8s_awesome_document#%E7%9B%B8%E5%85%B3%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)
 ### [@ 资源领取](https://github.com/0voice/k8s_awesome_document#%E8%81%94%E7%B3%BB%E4%B8%93%E6%A0%8F)
 
+## 🎉【最新更新】[华为云社区Cloud Native Lives 视频配套 PPT文档](https://github.com/0voice/k8s_awesome_document#------%E5%8D%8E%E4%B8%BA%E4%BA%91cloud-native-lives%E7%B3%BB%E5%88%97%E7%9B%B4%E6%92%AD-%E5%90%ABppt%E6%96%87%E6%A1%A3-------) 
+## 🎉【最新更新】[华为云kubernetes管理员实训课 （含PPT文档）](https://github.com/0voice/k8s_awesome_document#------%E5%8D%8E%E4%B8%BA%E4%BA%91kubernetes%E7%AE%A1%E7%90%86%E5%91%98%E5%AE%9E%E8%AE%AD%E8%AF%BE-%E5%90%ABppt%E6%96%87%E6%A1%A3-------) 
 ## 🎉【推荐收藏】[91道常见的Kubernetes面试题总结](https://github.com/0voice/k8s_awesome_document/blob/main/91%E9%81%93%E5%B8%B8%E8%A7%81%E7%9A%84Kubernetes%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md) 
 ## 🔥【推荐阅读】[K8s操作命令](https://github.com/0voice/k8s_awesome_document/blob/main/K8s%E6%93%8D%E4%BD%9C%E5%91%BD%E4%BB%A4.md)
 
