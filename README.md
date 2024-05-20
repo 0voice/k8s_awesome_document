@@ -967,8 +967,15 @@ Helm 再次成为最受欢迎的打包 Kubernetes 的方法，成为 64% 的用�
 
 - [weblogic-toolkit-ui](https://github.com/oracle/weblogic-toolkit-ui)---WebLogic Kubernetes Toolkit (WKT) 是一组开源工具，可帮助您配置基于 WebLogic 的应用程序以在 Kubernetes 集群上的 Linux 容器中运行。
 
-## 联系专栏
+<br/>
+<br/>
+<h3 >零领工作</h3> 
 
-#### 关注微信公众号【后台服务架构师】——【联系我们】，添加我们，获取本repo最全PDF学习文档！
+---
 
-<img width="65%" height="65%" src="https://user-images.githubusercontent.com/87457873/130796999-03af3f54-3719-47b4-8e41-2e762ab1c68b.png"/>
+##### 实时提供，每周发布北京，上海，广州，深圳，杭州，南京，合肥，武汉，长沙，重庆，成都，西安，厦门的c/c++，golang方向的招聘岗位信息。 包含校招，社招，实习岗位， 面经，八股，简历
+
+<img src="https://img.0voice.com/public/0e59910091576beaebe20f303357edf7.jpg" alt="零领工作" style="width:300px;height:300px;">
+
+<br/>
+<br/>
